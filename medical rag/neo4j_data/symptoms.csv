@@ -1,0 +1,940 @@
+id,name,type
+1,Palpitations,SYMPTOM
+2,Sweating,SYMPTOM
+3,Trembling,SYMPTOM
+4,Shortness Of Breath,SYMPTOM
+5,Fear Of Losing Control,SYMPTOM
+6,Dizziness,SYMPTOM
+7,Hoarseness,SYMPTOM
+8,Vocal Changes,SYMPTOM
+9,Vocal Fatigue,SYMPTOM
+10,Short Stature,SYMPTOM
+11,Gonadal Dysgenesis,SYMPTOM
+12,Webbed Neck,SYMPTOM
+13,Lymphedema,SYMPTOM
+14,Absence Or Undescended Testicle(S),SYMPTOM
+15,Empty Scrotum,SYMPTOM
+16,Smaller Or Underdeveloped Testicle(S),SYMPTOM
+17,Inguinal Hernia,SYMPTOM
+18,Abnormal Positioning Of The Testicle(S) (Higher In The Groin Area),SYMPTOM
+19,Nausea,SYMPTOM
+20,Vomiting,SYMPTOM
+21,Abdominal Pain,SYMPTOM
+22,General Malaise,SYMPTOM
+23,Weakness,SYMPTOM
+24,Increased Thirst,SYMPTOM
+25,Frequent Urination,SYMPTOM
+26,Metabolic Acidosis,SYMPTOM
+27,Apid Breathing,SYMPTOM
+28,Rapid Heart Rate,SYMPTOM
+29,Confusion,SYMPTOM
+30,Headache,SYMPTOM
+31,Seizures,SYMPTOM
+32,Decreased Urine Output,SYMPTOM
+33,Swelling In The Legs And Ankles,SYMPTOM
+34,And Signs Of Fluid Overload,SYMPTOM
+35,Severe Kidney Damage,SYMPTOM
+36,Vaginal Dryness,SYMPTOM
+37,Vaginal Burning,SYMPTOM
+38,Urinary Tract Infections,SYMPTOM
+39,Painful Intercourse,SYMPTOM
+40,Pain,SYMPTOM
+41,Swelling,SYMPTOM
+42,Bruising,SYMPTOM
+43,Deformity,SYMPTOM
+44,Difficulty Moving,SYMPTOM
+45,Loss Of Function,SYMPTOM
+46,Redness,SYMPTOM
+47,Tenderness,SYMPTOM
+48,Skin Changes,SYMPTOM
+49,Lymph Node Enlargement,SYMPTOM
+50,Double Vision,SYMPTOM
+51,Eye Fatigue,SYMPTOM
+52,Poor Depth Perception,SYMPTOM
+53,Head Tilting,SYMPTOM
+54,Throbbing Headache,SYMPTOM
+55,Persistent Hunger,SYMPTOM
+56,Weight Loss,SYMPTOM
+57,Dehydration,SYMPTOM
+58,Visible Peristalsis,SYMPTOM
+59,Palpable Mass,SYMPTOM
+60,Fussiness,SYMPTOM
+61,Lump,SYMPTOM
+62,Facial Numbness,SYMPTOM
+63,Tingling,SYMPTOM
+64,Painless Lump Or Swelling,SYMPTOM
+65,Facial Changes,SYMPTOM
+66,Difficulty,SYMPTOM
+67,Pain When Swallowing And Speaking,SYMPTOM
+68,Facial Weakness,SYMPTOM
+69,Facial Paralysis,SYMPTOM
+70,Painless Fluid-Filled Swelling In The Oral Cavity,SYMPTOM
+71,Joint Pain,SYMPTOM
+72,Stiffness,SYMPTOM
+73,Reduced Range Of Motion,SYMPTOM
+74,Difficulty Eating,SYMPTOM
+75,Dry Mouth,SYMPTOM
+76,Bad Taste,SYMPTOM
+77,Frequent Episodes Of Stone Formation,SYMPTOM
+78,Swollen Salivary Glands (Usually Parotid),SYMPTOM
+79,Fever,SYMPTOM
+80,Fatigue,SYMPTOM
+81,Severe Swelling Of The Floor Of The Mouth,SYMPTOM
+82,Difficulty Swallowing,SYMPTOM
+83,Drooling,SYMPTOM
+84,Painless Swelling,SYMPTOM
+85,Usually On The Lower Lip Or Floor Of The Mouth,SYMPTOM
+86,Pus Formation,SYMPTOM
+87,Dry Mouth And Eyes,SYMPTOM
+88,Dry Skin,SYMPTOM
+89,Gradual Loss Of Peripheral Vision,SYMPTOM
+90,Tunnel Vision,SYMPTOM
+91,Severe Eye Pain,SYMPTOM
+92,Blurred Vision,SYMPTOM
+93,Halos Around Lights,SYMPTOM
+94,Nausea And Vomiting,SYMPTOM
+95,Gradual Loss Of Vision,SYMPTOM
+96,Visual Field Defects,SYMPTOM
+97,Cloudy Or Hazy Eyes,SYMPTOM
+98,Excessive Tearing,SYMPTOM
+99,Sensitivity To Light,SYMPTOM
+100,Varies Depending On The Underlying Cause,SYMPTOM
+101,Eye Pain,SYMPTOM
+102,Elevated Intraocular Pressure,SYMPTOM
+103,Visual Field Loss,SYMPTOM
+104,Elevated Intraocular Pressure Without Optic Nerve Damage,SYMPTOM
+105,Extreme Weight Loss,SYMPTOM
+106,Fear Of Gaining Weight,SYMPTOM
+107,Distorted Body Image,SYMPTOM
+108,Recurrent Episodes Of Binge Eating Followed By Purging Behaviors,SYMPTOM
+109,Recurrent Episodes Of Binge Eating Without Compensatory Behaviors,SYMPTOM
+110,Avoidance Or Restriction Of Certain Foods Or Entire Food Groups,SYMPTOM
+111,Significant Weight Loss Or Failure To Gain Weight,SYMPTOM
+112,Symptoms That Do Not Meet The Full Criteria For A Specific Eating Disorder,SYMPTOM
+113,"Obsessive Focus On ""Clean"" Eating",SYMPTOM
+114,Healthy Food Choices,SYMPTOM
+115,Persistent Consumption Of Non-Food Substances,SYMPTOM
+116,Repeated Regurgitation And Re-Chewing Of Food,SYMPTOM
+117,Sudden Onset Of Neurological Symptoms That Resolve Within 24 Hours,SYMPTOM
+118,Chills,SYMPTOM
+119,Back Or Flank Pain,SYMPTOM
+120,Shoulder Pain,SYMPTOM
+121,Weakness Or Loss Of Strength,SYMPTOM
+122,Limited Range Of Motion,SYMPTOM
+123,Shoulder Stiffness,SYMPTOM
+124,Widespread Musculoskeletal Pain,SYMPTOM
+125,Sleep Disturbances,SYMPTOM
+126,Extreme Fatigue,SYMPTOM
+127,Cognitive Difficulties,SYMPTOM
+128,Unrefreshing Sleep,SYMPTOM
+129,Severe And Persistent Pain,SYMPTOM
+130,Changes In Skin Color Or Temperature,SYMPTOM
+131,Localized Muscle Pain,SYMPTOM
+132,Trigger Points,SYMPTOM
+133,Recurrent,SYMPTOM
+134,Disabling Migraines,SYMPTOM
+135,Shooting Or Burning Pain,SYMPTOM
+136,Tingling Or Numbness,SYMPTOM
+137,High Blood Sugar Levels During Pregnancy,SYMPTOM
+138,High Blood Pressure During Pregnancy,SYMPTOM
+139,High Blood Pressure Without Proteinuria (Preeclampsia),SYMPTOM
+140,High Blood Pressure,SYMPTOM
+141,Proteinuria,SYMPTOM
+142,Headaches,SYMPTOM
+143,Visual Disturbances,SYMPTOM
+144,Severe Nausea And Vomiting During Pregnancy,SYMPTOM
+145,Painful Urination,SYMPTOM
+146,Pelvic Pain,SYMPTOM
+147,Cloudy Urine,SYMPTOM
+148,Pale Skin,SYMPTOM
+149,Lower Back Pain,SYMPTOM
+150,Discomfort In The Pelvic Area,SYMPTOM
+151,Sharp Or Aching Pain In The Lower Abdomen Or Groin,SYMPTOM
+152,Vaginal Bleeding,SYMPTOM
+153,Painless Bleeding In The Third Trimester,SYMPTOM
+154,Numbness,SYMPTOM
+155,And Pain In The Hand And Fingers,SYMPTOM
+156,Sharp Pain,SYMPTOM
+157,Or Numbness That Radiates From The Lower Back Through The Hips And Down The Leg,SYMPTOM
+158,Enlarged,SYMPTOM
+159,Swollen Veins,SYMPTOM
+160,Often In The Legs,SYMPTOM
+161,Swollen,SYMPTOM
+162,Itchy,SYMPTOM
+163,Or Painful Veins In The Rectal Area,SYMPTOM
+164,Itchy Skin,SYMPTOM
+165,Particularly On The Hands And Feet,SYMPTOM
+166,Jaundice (Yellowing Of The Skin And Eyes),SYMPTOM
+167,Unexplained Weight Loss,SYMPTOM
+168,Loss Of Appetite,SYMPTOM
+169,Difficulty Breathing,SYMPTOM
+170,Rapid Breathing,SYMPTOM
+171,Chest Pain,SYMPTOM
+172,Abdominal Pain Or Cramping,SYMPTOM
+173,Shoulder Pain (If The Fallopian Tube Ruptures),SYMPTOM
+174,Abdominal Pain (Often In The Upper Right Quadrant),SYMPTOM
+175,Jaundice,SYMPTOM
+176,Dark Urine,SYMPTOM
+177,Pale Stools,SYMPTOM
+178,Endoscopic Retrograde Cholangiopancreatography (Ercp) With Stone Removal,SYMPTOM
+179,Sphincterotomy,SYMPTOM
+180,Cholecystectomy,SYMPTOM
+181,Abdominal Swelling (Ascites),SYMPTOM
+182,Easy Bruising And Bleeding,SYMPTOM
+183,Chest Or Back Pain,SYMPTOM
+184,Nausea Or Vomiting,SYMPTOM
+185,Weakness Or Numbness,SYMPTOM
+186,Developmental Delays,SYMPTOM
+187,Intellectual Disability,SYMPTOM
+188,Hearing Loss,SYMPTOM
+189,Vision Problems,SYMPTOM
+190,Heart Defects,SYMPTOM
+191,Liver Or Spleen Enlargement,SYMPTOM
+192,Rash At Birth,SYMPTOM
+193,Blurred Or Distorted Vision,SYMPTOM
+194,Floaters,SYMPTOM
+195,Impaired Color Vision,SYMPTOM
+196,Dark Or Empty Areas In The Visual Field,SYMPTOM
+197,Vision Loss,SYMPTOM
+198,Cognitive Difficulties (Fibro Fog),SYMPTOM
+199,Mood Changes,SYMPTOM
+200,Severe Abdominal Pain,SYMPTOM
+201,Bloody Stools,SYMPTOM
+202,Diarrhea,SYMPTOM
+203,Low Blood Pressure,SYMPTOM
+204,Growth Deficiencies,SYMPTOM
+205,Facial Abnormalities,SYMPTOM
+206,Bloating,SYMPTOM
+207,Increased Heart Rate,SYMPTOM
+208,Changes In Bowel Movements,SYMPTOM
+209,Blood In Urine Or Stool,SYMPTOM
+210,Severe Upper Abdominal Pain,SYMPTOM
+211,Rapid Pulse,SYMPTOM
+212,Swollen And Tender Abdomen,SYMPTOM
+213,Warmth,SYMPTOM
+214,And Tenderness Along A Vein,SYMPTOM
+215,Pain Or Discomfort,SYMPTOM
+216,Skin Discoloration,SYMPTOM
+217,Visible Veins,SYMPTOM
+218,Recurrent Episodes Of Wheezing,SYMPTOM
+219,Chest Tightness,SYMPTOM
+220,Coughing,SYMPTOM
+221,Especially At Night Or In Response To Triggers Such As Allergens Or Exercise,SYMPTOM
+222,Uncomfortable Sensation In The Legs,SYMPTOM
+223,Usually In The Evening Or At Night,SYMPTOM
+224,Urge To Move Legs For Relief,SYMPTOM
+225,Wheezing,SYMPTOM
+226,Chronic Cough,SYMPTOM
+227,Cramping,SYMPTOM
+228,Emotional Distress,SYMPTOM
+229,Facial Pain Or Pressure,SYMPTOM
+230,Nasal Congestion,SYMPTOM
+231,Thick Nasal Discharge,SYMPTOM
+232,Post-Nasal Drip,SYMPTOM
+233,Cough,SYMPTOM
+234,Fever (In Some Cases),SYMPTOM
+235,Hemangioblastomas (Tumors In The Brain,SYMPTOM
+236,Spinal Cord,SYMPTOM
+237,Or Other Organs),SYMPTOM
+238,Retinal Angiomas (Abnormal Blood Vessel Growth In The Retina),SYMPTOM
+239,Renal Cell Carcinomas (Kidney Tumors),SYMPTOM
+240,Pheochromocytomas (Adrenal Gland Tumors),SYMPTOM
+241,Pancreatic Cysts/Tumors,SYMPTOM
+242,Other Tumors Or Cysts,SYMPTOM
+243,Cravings For Alcohol,SYMPTOM
+244,Inability To Control Or Limit Alcohol Consumption,SYMPTOM
+245,Withdrawal Symptoms (Such As Tremors,SYMPTOM
+246,Anxiety,SYMPTOM
+247,Sweating) When Attempting To Stop Or Reduce Alcohol Use,SYMPTOM
+248,Continued Use Despite Negative Consequences (Such As Relationship Problems,SYMPTOM
+249,Health Issues),SYMPTOM
+250,Neglecting Responsibilities,SYMPTOM
+251,Tolerance To Alcohol,SYMPTOM
+252,Compulsive Use Of Opioids,SYMPTOM
+253,Strong Desire Or Cravings For Opioids,SYMPTOM
+254,Inability To Control Or Reduce Opioid Use,SYMPTOM
+255,Withdrawal Symptoms (Such As Nausea,SYMPTOM
+256,Muscle Aches,SYMPTOM
+257,Anxiety) When Attempting To Stop Or Reduce Use,SYMPTOM
+258,Tolerance To Opioids,SYMPTOM
+259,Continued Use Despite Negative Consequences (Such As Legal Issues,SYMPTOM
+260,Health Problems),SYMPTOM
+261,Increased Energy And Alertness,SYMPTOM
+262,Euphoria,SYMPTOM
+263,Decreased Appetite,SYMPTOM
+264,Increased Heart Rate And Blood Pressure,SYMPTOM
+265,Insomnia,SYMPTOM
+266,Restlessness,SYMPTOM
+267,Irritability,SYMPTOM
+268,Paranoia,SYMPTOM
+269,Psychosis (In Severe Cases),SYMPTOM
+270,Increased Appetite,SYMPTOM
+271,Relaxation,SYMPTOM
+272,Altered Perception Of Time,SYMPTOM
+273,Impaired Memory And Concentration,SYMPTOM
+274,Bloodshot Eyes,SYMPTOM
+275,Anxiety Or Paranoia (In Some Individuals),SYMPTOM
+276,Withdrawal Symptoms (Such As Irritability,SYMPTOM
+277,Insomnia) When Attempting To Stop Or Reduce Cannabis Use,SYMPTOM
+278,Job Difficulties),SYMPTOM
+279,Sedation,SYMPTOM
+280,Reduced Anxiety,SYMPTOM
+281,Drowsiness,SYMPTOM
+282,Poor Coordination,SYMPTOM
+283,Memory Impairment,SYMPTOM
+284,Withdrawal Symptoms (Such As Rebound Anxiety,SYMPTOM
+285,Tremors) When Attempting To Stop Or Reduce Benzodiazepine Use,SYMPTOM
+286,Health Risks),SYMPTOM
+287,Altered Perception Of Reality,SYMPTOM
+288,Visual Or Auditory Hallucinations,SYMPTOM
+289,Changes In Sensory Experiences,SYMPTOM
+290,Introspective Thoughts,SYMPTOM
+291,Feelings Of Connection Or Disconnection,SYMPTOM
+292,Flashbacks (In Some Individuals),SYMPTOM
+293,Tremors) When Attempting To Stop Or Reduce Use,SYMPTOM
+294,Persistent Feelings Of Sadness,SYMPTOM
+295,Emptiness,SYMPTOM
+296,Or Hopelessness,SYMPTOM
+297,Frequent Crying,SYMPTOM
+298,Loss Of Interest Or Pleasure In Activities,SYMPTOM
+299,Difficulty Bonding With The Baby,SYMPTOM
+300,Changes In Appetite Or Sleep Patterns,SYMPTOM
+301,Overwhelming Fatigue,SYMPTOM
+302,Feelings Of Guilt Or Worthlessness,SYMPTOM
+303,Trouble Concentrating Or Making Decisions,SYMPTOM
+304,Thoughts Of Self-Harm Or Harming The Baby,SYMPTOM
+305,Chest Pain Or Discomfort (Angina),SYMPTOM
+306,Irregular Heartbeat,SYMPTOM
+307,Jaw Or Arm Pain (In Some Cases),SYMPTOM
+308,Heart Attack (When A Coronary Artery Becomes Completely Blocked),SYMPTOM
+309,Chronic Back Pain And Stiffness,SYMPTOM
+310,Especially In The Morning Or After Periods Of Inactivity,SYMPTOM
+311,Limited Range Of Motion In The Spine,SYMPTOM
+312,Inflammation And Pain In Other Joints (Such As Hips,SYMPTOM
+313,Shoulders,SYMPTOM
+314,Knees),SYMPTOM
+315,Discomfort Or Pain In The Neck,SYMPTOM
+316,Difficulty Maintaining Proper Posture,SYMPTOM
+317,Tenderness Or Swelling In Affected Areas,SYMPTOM
+318,Tingling Or Numbness In Extremities In Severe Cases,SYMPTOM
+319,Vision Problems (Such As Blurred Vision Or Loss Of Peripheral Vision),SYMPTOM
+320,Hormonal Imbalances (Such As Excessive Production Or Deficiency Of Specific Hormones),SYMPTOM
+321,Weight Gain Or Loss,SYMPTOM
+322,Menstrual Irregularities,SYMPTOM
+323,Infertility,SYMPTOM
+324,Erectile Dysfunction,SYMPTOM
+325,Growth Abnormalities In Children,SYMPTOM
+326,Cognitive Impairments,SYMPTOM
+327,Heavy Or Prolonged Menstrual Periods,SYMPTOM
+328,Pelvic Pain Or Pressure,SYMPTOM
+329,Difficulty Emptying The Bladder,SYMPTOM
+330,Constipation,SYMPTOM
+331,Backache,SYMPTOM
+332,Leg Pain,SYMPTOM
+333,Enlarged Abdomen Or Uterus,SYMPTOM
+334,Infertility Or Recurrent Miscarriages (In Some Cases),SYMPTOM
+335,Abnormal Vaginal Bleeding Outside Of The Menstrual Period,SYMPTOM
+336,Unpredictable Bleeding Episodes,SYMPTOM
+337,Bleeding After Sexual Intercourse,SYMPTOM
+338,Bleeding After Menopause,SYMPTOM
+339,Spotting Or Light Bleeding Between Periods,SYMPTOM
+340,Prolonged Or Heavy Bleeding,SYMPTOM
+341,Painful,SYMPTOM
+342,Red Lump Or Swelling On The Eyelid,SYMPTOM
+343,Usually On The Upper Eyelid,SYMPTOM
+344,Blurred Vision (If The Chalazion Affects The Line Of Sight),SYMPTOM
+345,Mild Discomfort,SYMPTOM
+346,Localized Inflammation And Swelling,SYMPTOM
+347,Sudden And Severe Abdominal Or Pelvic Pain On One Side,SYMPTOM
+348,Sharp Or Stabbing Pain,SYMPTOM
+349,Rapid Heartbeat,SYMPTOM
+350,Abdominal Tenderness,SYMPTOM
+351,Pain During Intercourse,SYMPTOM
+352,Abnormal Bleeding Or Spotting,SYMPTOM
+353,Itching And Irritation In The Vagina And Vulva,SYMPTOM
+354,Redness And Swelling Of The Vulva,SYMPTOM
+355,White,SYMPTOM
+356,Thick,SYMPTOM
+357,Clumpy Vaginal Discharge (Resembling Cottage Cheese),SYMPTOM
+358,Burning Sensation During Urination,SYMPTOM
+359,Pain During Sexual Intercourse,SYMPTOM
+360,Rash Or Soreness In The Affected Area,SYMPTOM
+361,Ear Pain (Particularly Behind The Ear),SYMPTOM
+362,Swelling And Redness Of The Ear Or The Area Behind The Ear,SYMPTOM
+363,Hearing Loss Or Impaired Hearing,SYMPTOM
+364,Drainage Of Fluid Or Pus From The Ear,SYMPTOM
+365,Earache,SYMPTOM
+366,Irritability (In Infants And Young Children),SYMPTOM
+367,Tenderness Or Pain When Touching The Area,SYMPTOM
+368,Mastoid Bone Protrusion Or Swelling,SYMPTOM
+369,Chest Pain (Sharp Or Dull),SYMPTOM
+370,Difficulty Breathing Or Shortness Of Breath,SYMPTOM
+371,Rapid Or Shallow Breathing,SYMPTOM
+372,Coughing Up Blood Or Pink-Tinged Sputum,SYMPTOM
+373,Decreased Oxygen Levels,SYMPTOM
+374,Cyanosis (Bluish Discoloration Of The Skin),SYMPTOM
+375,Chest Wall Bruising,SYMPTOM
+376,Rib Fractures (Associated Injuries),SYMPTOM
+377,Especially During Physical Activity Or Exertion,SYMPTOM
+378,Chest Pain Or Discomfort,SYMPTOM
+379,Dizziness Or Lightheadedness,SYMPTOM
+380,Fainting Or Near-Fainting Episodes,SYMPTOM
+381,Heart Palpitations (Rapid Or Irregular Heartbeat),SYMPTOM
+382,Swelling In The Ankles,SYMPTOM
+383,Feet,SYMPTOM
+384,Or Legs,SYMPTOM
+385,Night Sweats,SYMPTOM
+386,Elevated Eosinophil Count In The Blood Or Sputum,SYMPTOM
+387,Blurred Or Hazy Vision,SYMPTOM
+388,Eye Pain Or Discomfort,SYMPTOM
+389,Redness Or Irritation Of The Eye,SYMPTOM
+390,Sensitivity To Light (Photophobia),SYMPTOM
+391,Foreign Body Sensation,SYMPTOM
+392,Dryness Or Excessive Tearing,SYMPTOM
+393,Corneal Abrasions Or Ulcers,SYMPTOM
+394,Distorted Or Irregular Corneal Shape,SYMPTOM
+395,Abdominal Pain Or Discomfort,SYMPTOM
+396,Choking Or Gagging,SYMPTOM
+397,Chest Pain Or Pressure,SYMPTOM
+398,Respiratory Distress,SYMPTOM
+399,Coughing Or Wheezing,SYMPTOM
+400,Gastrointestinal Bleeding,SYMPTOM
+401,Bowel Obstruction,SYMPTOM
+402,Perforation Of The Digestive Tract,SYMPTOM
+403,Decreased Vision,SYMPTOM
+404,Floaters (Dark Spots Or Cobwebs In The Vision),SYMPTOM
+405,Increased Sensitivity To Light (Photophobia),SYMPTOM
+406,Discharge From The Eye,SYMPTOM
+407,Reduced Hearing Sensitivity,SYMPTOM
+408,Muffled Or Blocked Sound,SYMPTOM
+409,Visible Bulge Or Swelling,SYMPTOM
+410,Discomfort Or Pain,SYMPTOM
+411,Impaired Memory And Cognition,SYMPTOM
+412,Altered Judgment,SYMPTOM
+413,Meningitis,SYMPTOM
+414,Pneumonia,SYMPTOM
+415,Excessive Body Weight,SYMPTOM
+416,Increased Risk Of Chronic Conditions,SYMPTOM
+417,Heartburn,SYMPTOM
+418,Acidic Taste,SYMPTOM
+419,Unintentional Weight Loss,SYMPTOM
+420,Chest Discomfort Or Tightness,SYMPTOM
+421,Rash,SYMPTOM
+422,Rough,SYMPTOM
+423,Scaly Patches On The Skin,SYMPTOM
+424,Usually In Sun-Exposed Areas,SYMPTOM
+425,Ear Pain,SYMPTOM
+426,Fluid Drainage From The Ear,SYMPTOM
+427,Hearing Loss Or Muffled Hearing In The Affected Ear,SYMPTOM
+428,Eye Strain,SYMPTOM
+429,Uneven Curvature Of Cornea,SYMPTOM
+430,Benign Tumors In Various Organs,SYMPTOM
+431,Skin Abnormalities,SYMPTOM
+432,Productive Cough With Foul-Smelling Or Bloody Sputum,SYMPTOM
+433,Gradual Hearing Loss,SYMPTOM
+434,Difficulty Hearing High-Pitched Sounds,SYMPTOM
+435,Speech Sounds Muffled Or Unclear,SYMPTOM
+436,Yellowing Of The Skin And Eyes,SYMPTOM
+437,Severe Pain,SYMPTOM
+438,Visible Deformity,SYMPTOM
+439,Inability To Move The Elbow,SYMPTOM
+440,Numbness Or Tingling In The Hand/Arm,SYMPTOM
+441,Neck Or Back Pain,SYMPTOM
+442,Numbness Or Weakness In The Extremities,SYMPTOM
+443,Sore Throat,SYMPTOM
+444,Painful Sores Or Blisters In The Mouth And Throat,SYMPTOM
+445,Changes In Heart Rate,SYMPTOM
+446,Pain Or Tenderness At The Wound Site,SYMPTOM
+447,Pus Or Drainage From The Wound,SYMPTOM
+448,Malaise,SYMPTOM
+449,Muscle Wasting,SYMPTOM
+450,Delayed Wound Healing,SYMPTOM
+451,Swelling Of The Limbs,SYMPTOM
+452,Hair Loss,SYMPTOM
+453,Impaired Immunity,SYMPTOM
+454,Sudden,SYMPTOM
+455,Brief Muscle Contractions Or Jerks,SYMPTOM
+456,Often Affecting The Arms,SYMPTOM
+457,Legs,SYMPTOM
+458,Or Face,SYMPTOM
+459,Heel Pain,SYMPTOM
+460,Especially When Walking Or Standing,SYMPTOM
+461,Inflammation Of The Surrounding Tissue,SYMPTOM
+462,Easy Or Excessive Bruising,SYMPTOM
+463,Prolonged Or Excessive Bleeding From Cuts Or Injuries,SYMPTOM
+464,Frequent Nosebleeds,SYMPTOM
+465,Bleeding Gums,SYMPTOM
+466,Fainting,SYMPTOM
+467,Irregular Heart Rhythms,SYMPTOM
+468,Most Colonic Polyps Do Not Cause Symptoms. Some Larger Polyps Or Certain Types May Cause Rectal Bleeding Or Changes In Bowel Habits,SYMPTOM
+469,Such As Diarrhea Or Constipation.,SYMPTOM
+470,Abnormal Positioning Of The Urethral Opening On The Underside Of The Penis,SYMPTOM
+471,Penile Curvature,SYMPTOM
+472,Spraying Of Urine,SYMPTOM
+473,Difficulty In Urination,SYMPTOM
+474,Muscle Twitches Or Cramps,SYMPTOM
+475,Mental Confusion,SYMPTOM
+476,Personality Changes,SYMPTOM
+477,Inability To Conceive After One Year Of Unprotected Intercourse,SYMPTOM
+478,Irregular Or Absent Menstrual Cycles,SYMPTOM
+479,Hormonal Imbalances,SYMPTOM
+480,Age-Related Factors,SYMPTOM
+481,Other,SYMPTOM
+482,Chest Pain (Sharp And Stabbing),SYMPTOM
+483,Worsens With Deep Breaths Or Lying Down,SYMPTOM
+484,Inattention,SYMPTOM
+485,Hyperactivity,SYMPTOM
+486,Impulsivity,SYMPTOM
+487,Optic Neuritis (Vision Loss,SYMPTOM
+488,Pain With Eye Movement),SYMPTOM
+489,Transverse Myelitis (Weakness,SYMPTOM
+490,Or Paralysis Of The Limbs,SYMPTOM
+491,Loss Of Bladder Or Bowel Control),SYMPTOM
+492,Heart Palpitations,SYMPTOM
+493,Fainting Or Lightheadedness,SYMPTOM
+494,Swollen Legs Or Ankles,SYMPTOM
+495,Swelling And Tenderness Of The Cartilage Connecting The Ribs To The Breastbone,SYMPTOM
+496,Depends On The Specific Cranial Nerve Involved; Symptoms Can Include Vision Changes,SYMPTOM
+497,Eye Movement Abnormalities,SYMPTOM
+498,Facial Weakness Or Paralysis,SYMPTOM
+499,Difficulty Swallowing Or Speaking,SYMPTOM
+500,Loss Of Sensation In The Face Or Other Areas,SYMPTOM
+501,Neurological Symptoms That Cannot Be Explained By A Medical Condition Or Injury,SYMPTOM
+502,Such As Paralysis,SYMPTOM
+503,Blindness,SYMPTOM
+504,Or Difficulty Speaking,SYMPTOM
+505,Severe And Chronic Pain,SYMPTOM
+506,Often In The Limbs,SYMPTOM
+507,With Associated Swelling,SYMPTOM
+508,Abnormal Sweating,SYMPTOM
+509,Hearing Loss (Gradual And Progressive),SYMPTOM
+510,Tinnitus (Ringing In The Ears),SYMPTOM
+511,Dizziness Or Balance Problems,SYMPTOM
+512,Weight Gain,SYMPTOM
+513,Sensitivity To Cold,SYMPTOM
+514,Depression,SYMPTOM
+515,Muscle Weakness,SYMPTOM
+516,Elevated Cholesterol Levels,SYMPTOM
+517,Difficulty Falling Asleep Or Staying Asleep,SYMPTOM
+518,Daytime Sleepiness,SYMPTOM
+519,Difficulty Concentrating,SYMPTOM
+520,Itching And Visible Presence Of Lice Or Nits (Eggs) In The Hair,SYMPTOM
+521,Tingling Or Numbness In The Hands And Feet,SYMPTOM
+522,Balance Problems,SYMPTOM
+523,Sore Tongue,SYMPTOM
+524,Persistent Pain Or Discomfort In The Vulva,SYMPTOM
+525,Burning,SYMPTOM
+526,Stinging,SYMPTOM
+527,Rawness,SYMPTOM
+528,Itching,SYMPTOM
+529,Pelvic Pain (During Menstruation,SYMPTOM
+530,Intercourse,SYMPTOM
+531,Or Bowel Movements),SYMPTOM
+532,Heavy Menstrual Bleeding,SYMPTOM
+533,Inflammation Of Blood Vessels Leading To Various Symptoms Depending On The Affected Organs,SYMPTOM
+534,Including Rash,SYMPTOM
+535,Muscle And Joint Pain,SYMPTOM
+536,Memory Problems,SYMPTOM
+537,Sensitivity To Light Or Noise,SYMPTOM
+538,White Patches Or Plaques In The Mouth,SYMPTOM
+539,Often On The Tongue Or Inside Of The Cheeks,SYMPTOM
+540,That Cannot Be Scraped Off,SYMPTOM
+541,Swelling Of The Legs Or Ankles,SYMPTOM
+542,Increased Urination Or Urine Changes,SYMPTOM
+543,Blood In Urine,SYMPTOM
+544,Urgency,SYMPTOM
+545,Persistent,SYMPTOM
+546,Painful Erection,SYMPTOM
+547,Inflammation,SYMPTOM
+548,Swollen Lymph Nodes,SYMPTOM
+549,Sharp,SYMPTOM
+550,Shooting Pain Along The Affected Nerve,SYMPTOM
+551,Kidney Cysts,SYMPTOM
+552,Mood Swings,SYMPTOM
+553,Manic Episodes,SYMPTOM
+554,Depressive Episodes,SYMPTOM
+555,Organ Dysfunction,SYMPTOM
+556,Tingling In Limbs,SYMPTOM
+557,Acid Reflux,SYMPTOM
+558,Floaters In Vision,SYMPTOM
+559,Blurry Vision,SYMPTOM
+560,Neurological Symptoms,SYMPTOM
+561,Thickening Of The Skin,SYMPTOM
+562,Raynaud'S Phenomenon,SYMPTOM
+563,Difficulty Speaking,SYMPTOM
+564,Shaking,SYMPTOM
+565,Lack Of Menstrual Periods,SYMPTOM
+566,Inability To Bear Weight,SYMPTOM
+567,Difficulty Walking,SYMPTOM
+568,Difficulty Seeing Objects Up Close,SYMPTOM
+569,Blurred Vision When Focusing On Near Objects,SYMPTOM
+570,Slowed Breathing,SYMPTOM
+571,Painful Blisters On The Skin And Mucous Membranes,SYMPTOM
+572,Curvature Of The Penis,SYMPTOM
+573,Pain During Erections,SYMPTOM
+574,Muscle Stiffness,SYMPTOM
+575,Tremors,SYMPTOM
+576,Involuntary Movements,SYMPTOM
+577,Vertigo,SYMPTOM
+578,Tinnitus,SYMPTOM
+579,Ear Fullness,SYMPTOM
+580,Pain During Bowel Movements,SYMPTOM
+581,Rectal Bleeding,SYMPTOM
+582,Recurrent Ear Infections,SYMPTOM
+583,Chronic Constipation,SYMPTOM
+584,Abdominal Distension,SYMPTOM
+585,Failure To Pass Meconium (In Newborns),SYMPTOM
+586,Muscle Pain And Stiffness,SYMPTOM
+587,Swelling In Arms Or Legs,SYMPTOM
+588,Feeling Of Heaviness Or Tightness,SYMPTOM
+589,Knee Pain,SYMPTOM
+590,Inability To Straighten The Leg,SYMPTOM
+591,Pain Radiating From The Lower Back To The Leg,SYMPTOM
+592,Excessive Thirst,SYMPTOM
+593,Kidney Stones,SYMPTOM
+594,Unintentional Urine Leakage During Physical Activity,SYMPTOM
+595,Abdominal Or Flank Pain,SYMPTOM
+596,Swelling Of The Scrotum,SYMPTOM
+597,Excessive Hair Growth In Women,SYMPTOM
+598,Flank Pain,SYMPTOM
+599,Urinary Frequency,SYMPTOM
+600,Swelling In The Abdomen,SYMPTOM
+601,Surgical Site Pain,SYMPTOM
+602,Discomfort,SYMPTOM
+603,Motor,SYMPTOM
+604,Cognitive,SYMPTOM
+605,And Psychiatric Symptoms,SYMPTOM
+606,Body Aches,SYMPTOM
+607,Blistering,SYMPTOM
+608,Bleeding,SYMPTOM
+609,Eye Redness,SYMPTOM
+610,Growth On The Conjunctiva (White Part Of The Eye),SYMPTOM
+611,Peeling Skin,SYMPTOM
+612,Low Blood Sugar (Hypoglycemia) Symptoms (E.G.,SYMPTOM
+613,Sweating),SYMPTOM
+614,Excessively Concentrated Urine,SYMPTOM
+615,Low Blood Sodium Levels,SYMPTOM
+616,Breast Tenderness,SYMPTOM
+617,Vision Changes,SYMPTOM
+618,Forgetfulness,SYMPTOM
+619,Bone Pain,SYMPTOM
+620,Fractures,SYMPTOM
+621,Skin Sores,SYMPTOM
+622,Enlarged Spleen Or Liver,SYMPTOM
+623,Heart And Digestive Problems,SYMPTOM
+624,Loss Of Sensation,SYMPTOM
+625,Chronic Pain,SYMPTOM
+626,Dry Cough,SYMPTOM
+627,Slowness Of Movement,SYMPTOM
+628,Intense Joint Pain,SYMPTOM
+629,Frequent Infections,SYMPTOM
+630,Easy Bruising Or Bleeding,SYMPTOM
+631,Fluid Retention,SYMPTOM
+632,Abdominal Cramps,SYMPTOM
+633,Neurological Deficits,SYMPTOM
+634,Red,SYMPTOM
+635,Tender Gums,SYMPTOM
+636,Discharge From The Wound,SYMPTOM
+637,Vomiting Blood,SYMPTOM
+638,Bloody Or Black Stools,SYMPTOM
+639,And Oily Patches Of Skin,SYMPTOM
+640,Dandruff,SYMPTOM
+641,Flaky Scalp,SYMPTOM
+642,Neck Pain,SYMPTOM
+643,And Abnormal Head Positioning,SYMPTOM
+644,Slow Heart Rate,SYMPTOM
+645,Mild To Moderate Head Pain,SYMPTOM
+646,Tightness Or Pressure Sensation On Both Sides Of Head,SYMPTOM
+647,Slurred Speech,SYMPTOM
+648,Impaired Coordination,SYMPTOM
+649,Swollen And Bleeding Gums,SYMPTOM
+650,Excessive Daytime Sleepiness,SYMPTOM
+651,Sudden Loss Of Muscle Tone (Cataplexy),SYMPTOM
+652,Gastrointestinal Symptoms,SYMPTOM
+653,Excessive Worrying,SYMPTOM
+654,Panic Attacks,SYMPTOM
+655,Impulsive Behaviors (E.G.,SYMPTOM
+656,Gambling,SYMPTOM
+657,Stealing),SYMPTOM
+658,Difficulty Resisting Urges,SYMPTOM
+659,Eye Discharge,SYMPTOM
+660,Recurrent Eye Infections,SYMPTOM
+661,Discharge From The Nose,SYMPTOM
+662,Discharge,SYMPTOM
+663,Foul Odor Around The Umbilical Area,SYMPTOM
+664,Easy Bleeding Or Bruising,SYMPTOM
+665,Drooping Of The Mouth Or Eyelid,SYMPTOM
+666,Watery Discharge,SYMPTOM
+667,Swollen Eyelids,SYMPTOM
+668,Respiratory Symptoms,SYMPTOM
+669,Abdominal Or Back Pain,SYMPTOM
+670,Blurred Distance Vision,SYMPTOM
+671,Eyestrain,SYMPTOM
+672,Squinting,SYMPTOM
+673,Weight Changes,SYMPTOM
+674,Heart Inflammation,SYMPTOM
+675,Numbness Or Tingling In Fingers Or Around The Mouth,SYMPTOM
+676,Muscle Cramps,SYMPTOM
+677,Blurred Or Distorted Central Vision,SYMPTOM
+678,Blind Spots,SYMPTOM
+679,Small,SYMPTOM
+680,Painful Blisters On The Lips Or Around The Mouth,SYMPTOM
+681,Skipped Or Extra Heartbeats,SYMPTOM
+682,Lightheadedness,SYMPTOM
+683,Painful Ulcers Or Sores On The Genital Area,SYMPTOM
+684,Swollen Lymph Nodes In The Groin,SYMPTOM
+685,Lump Or Swelling In The Testicles,SYMPTOM
+686,Changes In Testicular Size Or Shape,SYMPTOM
+687,Cognitive Or Developmental Problems,SYMPTOM
+688,Enlarged Head In Infants,SYMPTOM
+689,Breast Lump,SYMPTOM
+690,Changes In Breast Size Or Shape,SYMPTOM
+691,Nipple Changes,SYMPTOM
+692,Breast Pain,SYMPTOM
+693,Swollen Blood Vessels In The Esophagus,SYMPTOM
+694,Black,SYMPTOM
+695,Tarry Stools,SYMPTOM
+696,Abnormal Vaginal Bleeding,SYMPTOM
+697,Pelvic Pain Or Discomfort,SYMPTOM
+698,Changes In Bowel Or Bladder Habits,SYMPTOM
+699,Persistent Cough With Thick Mucus,SYMPTOM
+700,Recurrent Lung Infections,SYMPTOM
+701,Poor Growth Or Weight Gain,SYMPTOM
+702,Salty-Tasting Skin,SYMPTOM
+703,Raw,SYMPTOM
+704,Or Inflamed Skin In Skin Folds (Such As Armpits Or Groin),SYMPTOM
+705,Itching Or Burning Sensation,SYMPTOM
+706,Jaw Pain Or Tenderness,SYMPTOM
+707,Clicking Or Popping Sounds In The Jaw Joint,SYMPTOM
+708,Difficulty Chewing Or Opening The Mouth,SYMPTOM
+709,Abdominal Pain Or Swelling,SYMPTOM
+710,Neurological Symptoms (Tremors,SYMPTOM
+711,Difficulty Speaking Or Walking),SYMPTOM
+712,Frequent Urinary Tract Infections,SYMPTOM
+713,Urinary Urgency Or Frequency,SYMPTOM
+714,Bedwetting (In Children),SYMPTOM
+715,High Blood Pressure (In Severe Cases),SYMPTOM
+716,Night Blindness,SYMPTOM
+717,Dry Eyes,SYMPTOM
+718,Dry Or Rough Skin,SYMPTOM
+719,Poor Wound Healing,SYMPTOM
+720,Weakened Immune System,SYMPTOM
+721,Abnormal Discharge From The Genitals,SYMPTOM
+722,Tenderness Or Swelling Over The Ribcage,SYMPTOM
+723,Changes In Coordination Or Balance,SYMPTOM
+724,Small Lump Or Swelling In The Vaginal Wall,SYMPTOM
+725,Discomfort Or Pain During Intercourse,SYMPTOM
+726,Persistent Knee Pain,SYMPTOM
+727,Yellowish Or White Growth On The Conjunctiva (Eye'S Surface),SYMPTOM
+728,Usually Near The Cornea,SYMPTOM
+729,Elevated Levels Of Gamma Globulins In The Blood,SYMPTOM
+730,May Be Asymptomatic Or Associated With Other Underlying Conditions,SYMPTOM
+731,Various Symptoms Depending On The Specific Disorder,SYMPTOM
+732,Including Hormonal Imbalances,SYMPTOM
+733,Severe Pain In The Side Or Back,SYMPTOM
+734,Blood In The Urine,SYMPTOM
+735,Challenges With Social Interaction,SYMPTOM
+736,Communication Difficulties,SYMPTOM
+737,Restricted Interests Or Repetitive Behaviors,SYMPTOM
+738,Gradual Vision Loss,SYMPTOM
+739,Peripheral Vision Impairment,SYMPTOM
+740,Floaters (Spots Or Cobweb-Like Shapes In Vision),SYMPTOM
+741,Flashes Of Light,SYMPTOM
+742,Curtain-Like Shadow Over Vision,SYMPTOM
+743,Sudden Vision Loss,SYMPTOM
+744,Rapid Or Irregular Heartbeats,SYMPTOM
+745,Prolonged Bleeding Or Bruising,SYMPTOM
+746,Frequent Or Constant Dribbling Of Urine,SYMPTOM
+747,Inability To Completely Empty The Bladder,SYMPTOM
+748,Weak Urine Stream,SYMPTOM
+749,Flu-Like Symptoms (Fever,SYMPTOM
+750,Fatigue),SYMPTOM
+751,Hallucinations,SYMPTOM
+752,Pain Or Tenderness On The Outer Side Of The Elbow,SYMPTOM
+753,Weak Grip Strength,SYMPTOM
+754,Difficulty With Forearm Movements,SYMPTOM
+755,Primary Stage: Painless Sores (Chancre) At The Site Of Infection,SYMPTOM
+756,Secondary Stage: Skin Rash,SYMPTOM
+757,Latent Stage: No Symptoms,SYMPTOM
+758,Tertiary Stage: Severe Complications Affecting The Heart,SYMPTOM
+759,Brain,SYMPTOM
+760,And Other Organs,SYMPTOM
+761,Increased Need To Urinate,SYMPTOM
+762,Runny Nose,SYMPTOM
+763,Sneezing,SYMPTOM
+764,Loss Of Smell,SYMPTOM
+765,Drug Cravings,SYMPTOM
+766,Toothache,SYMPTOM
+767,Tooth Sensitivity,SYMPTOM
+768,Visible Pits Or Holes In The Teeth,SYMPTOM
+769,Dark Spots On The Teeth,SYMPTOM
+770,Bad Breath,SYMPTOM
+771,High Levels Of Cholesterol In The Blood,SYMPTOM
+772,Fatty Deposits (Xanthomas) On The Skin Or Tendons,SYMPTOM
+773,Chest Pain Or Angina,SYMPTOM
+774,Heart Attacks,SYMPTOM
+775,Strokes,SYMPTOM
+776,Difficulty Straightening Or Bending The Knee,SYMPTOM
+777,Severe Neck Pain,SYMPTOM
+778,Difficulty Moving Or Turning The Head,SYMPTOM
+779,Numbness Or Weakness In The Arms Or Legs,SYMPTOM
+780,Involuntary Muscle Contractions,SYMPTOM
+781,Muscle Pain,SYMPTOM
+782,Excessive Bleeding And Bruising,SYMPTOM
+783,Prolonged Bleeding From Wounds Or After Dental Work Or Surgery,SYMPTOM
+784,Spontaneous Bleeding In Joints Or Muscles,SYMPTOM
+785,Increased Blood Sugar Levels,SYMPTOM
+786,Increased Ketone Production,SYMPTOM
+787,Fruity Breath Odor,SYMPTOM
+788,Severe Sore Throat,SYMPTOM
+789,Swollen Tonsils,SYMPTOM
+790,Voice Changes,SYMPTOM
+791,Neck Pain Or Stiffness,SYMPTOM
+792,Early Satiety,SYMPTOM
+793,Poor Appetite,SYMPTOM
+794,Petechial Rash (Small Red Or Purple Spots),SYMPTOM
+795,Increased Red Blood Cell Count,SYMPTOM
+796,Enlarged Spleen,SYMPTOM
+797,Easy Bruising,SYMPTOM
+798,Prolonged Bleeding From Cuts,SYMPTOM
+799,Petechiae (Red Or Purple Spots On The Skin),SYMPTOM
+800,Nosebleeds,SYMPTOM
+801,Excessive Menstrual Bleeding,SYMPTOM
+802,Persistent Sore Throat,SYMPTOM
+803,Neck Mass,SYMPTOM
+804,Hypocalcemia (Low Calcium Levels),SYMPTOM
+805,Tetany (Muscle Spasms),SYMPTOM
+806,Rounded Face,SYMPTOM
+807,Enlarged Thyroid Gland In The Neck,SYMPTOM
+808,Swelling Or Visible Protrusion,SYMPTOM
+809,Difficulty Swallowing Or Breathing,SYMPTOM
+810,Intense Urge To Urinate Followed By Involuntary Urine Leakage,SYMPTOM
+811,Distinct Facial Features (Small Jaw,SYMPTOM
+812,Low-Set Ears),SYMPTOM
+813,Progressive Muscle Weakness And Degeneration,SYMPTOM
+814,Difficulty Walking Or Moving,SYMPTOM
+815,Lower Abdominal Pain And Discomfort Occurring Around The Time Of Ovulation,SYMPTOM
+816,Decreased Exercise Tolerance,SYMPTOM
+817,Persistent Depressive Symptoms (Low Mood,SYMPTOM
+818,Lack Of Interest,SYMPTOM
+819,Changes In Sleep And Appetite),SYMPTOM
+820,Lasting For At Least Two Years,SYMPTOM
+821,Rash (Red,SYMPTOM
+822,Sandpaper-Like),SYMPTOM
+823,Swollen Glands,SYMPTOM
+824,Respiratory Depression,SYMPTOM
+825,Irregular Periods,SYMPTOM
+826,Excessive Hair Growth,SYMPTOM
+827,Acne,SYMPTOM
+828,Ovarian Cysts,SYMPTOM
+829,Painful Lump Or Swelling On The Eyelid,SYMPTOM
+830,Inflammation Of The Glans Penis (Tip Of The Penis),SYMPTOM
+831,Sensation Of A Foreign Object Stuck In The Throat,SYMPTOM
+832,Increased Energy,SYMPTOM
+833,Dilated Pupils,SYMPTOM
+834,Risk Of Heart Attack Or Stroke,SYMPTOM
+835,Vision Loss Or Blurry Vision,SYMPTOM
+836,Eye Pain With Eye Movement,SYMPTOM
+837,Color Vision Impairment,SYMPTOM
+838,Flashing Lights Or Floaters,SYMPTOM
+839,Chronic Diarrhea,SYMPTOM
+840,Abdominal Pain Or Bloating,SYMPTOM
+841,Nutrient Deficiencies (Vitamins,SYMPTOM
+842,Minerals),SYMPTOM
+843,Failure To Thrive,SYMPTOM
+844,Memory Loss Or Cognitive Difficulties,SYMPTOM
+845,Developmental Delays (In Children),SYMPTOM
+846,Anemia,SYMPTOM
+847,Rough Growths On The Skin Or Mucous Membranes,SYMPTOM
+848,Typically Painless,SYMPTOM
+849,May Appear In Clusters Or As Single Lesions,SYMPTOM
+850,Excessive Sweating (Beyond What Is Necessary For Temperature Regulation),SYMPTOM
+851,Typically In Specific Areas (Such As Palms,SYMPTOM
+852,Soles,SYMPTOM
+853,Underarms),SYMPTOM
+854,May Interfere With Daily Activities,SYMPTOM
+855,Sudden Numbness Or Weakness Of The Face,SYMPTOM
+856,Arm,SYMPTOM
+857,Or Leg (Typically On One Side Of The Body),SYMPTOM
+858,Trouble Speaking Or Understanding,SYMPTOM
+859,Severe Headache,SYMPTOM
+860,Pain Or Discomfort In The Tailbone Area,SYMPTOM
+861,Drainage Of Pus Or Blood,SYMPTOM
+862,Abscess Formation,SYMPTOM
+863,Difficulty Moving Or Using The Affected Area,SYMPTOM
+864,Gait Disturbances,SYMPTOM
+865,Urinary Incontinence,SYMPTOM
+866,Cognitive Decline Or Dementia-Like Symptoms,SYMPTOM
+867,Hair Loss Or Balding,SYMPTOM
+868,Patchy Or Generalized Hair Loss,SYMPTOM
+869,Muscle Aches And Stiffness,SYMPTOM
+870,Foot Pain Or Achiness,SYMPTOM
+871,Difficulty With Foot And Ankle Movement,SYMPTOM
+872,Foot Fatigue,SYMPTOM
+873,Abdominal Swelling Or Pain,SYMPTOM
+874,Enlarged Liver,SYMPTOM
+875,Elevated Liver Enzymes,SYMPTOM
+876,Insulin Resistance,SYMPTOM
+877,Joint Swelling,SYMPTOM
+878,Pelvic Pressure Or Heaviness,SYMPTOM
+879,Bowel Movement Difficulties,SYMPTOM
+880,Limited Mobility Or Difficulty Moving The Arm,SYMPTOM
+881,Prolonged Bleeding After Injury Or Surgery,SYMPTOM
+882,Excessive Bleeding From Minor Cuts Or Abrasions,SYMPTOM
+883,Changes In Vision,SYMPTOM
+884,Loss Of Consciousness,SYMPTOM
+885,Muscle Weakness Or Fatigue,SYMPTOM
+886,Irregular Heartbeat Or Palpitations,SYMPTOM
+887,Numbness Or Tingling,SYMPTOM
+888,Blurred Or Decreased Vision,SYMPTOM
+889,Increased Sensitivity To Light,SYMPTOM
+890,Cough With Phlegm Or Pus,SYMPTOM
+891,High Fever,SYMPTOM
+892,Joint And Muscle Pain,SYMPTOM
+893,Bleeding Tendencies,SYMPTOM
+894,Postnasal Drip,SYMPTOM
+895,Ear Drainage,SYMPTOM
+896,Dizziness Or Vertigo,SYMPTOM
+897,Bloody Stool,SYMPTOM
+898,Restricted Range Of Motion,SYMPTOM
+899,Difficulty Gripping Or Using The Finger,SYMPTOM
+900,Liver Or Kidney Damage,SYMPTOM
+901,Irregular Or Rapid Heartbeat,SYMPTOM
+902,Itching Around The Anus Or Vagina,SYMPTOM
+903,Restless Sleep,SYMPTOM
+904,Anal Or Vaginal Discharge,SYMPTOM
+905,Difficulty Or Poor Urinary Stream,SYMPTOM
+906,Urinary Frequency Or Urgency,SYMPTOM
+907,Poor Weight Gain,SYMPTOM
+908,Severe Headaches,SYMPTOM
+909,Sensitivity To Light And Sound,SYMPTOM
+910,Intense Burning Pain,SYMPTOM
+911,Changes In Skin Temperature,SYMPTOM
+912,Skin Rashes,SYMPTOM
+913,Painful Periods,SYMPTOM
+914,Persistent Head Pain,SYMPTOM
+915,Tension In Neck And Shoulders,SYMPTOM
+916,Dry,SYMPTOM
+917,Flaky Skin With Itching,SYMPTOM
+918,Inflamed Skin,SYMPTOM
+919,Intense Itching,SYMPTOM
+920,Especially At Night,SYMPTOM
+921,Small Blisters Or Bumps,SYMPTOM
+922,Raised,SYMPTOM
+923,Itchy Welts On The Skin,SYMPTOM
+924,Itchy Bumps,SYMPTOM
+925,Red Rash Caused By Contact With Irritants Or Allergens,SYMPTOM
+926,Sunburn-Like Rash,SYMPTOM
+927,Visible Lice Or Nits In The Affected Area,SYMPTOM
+928,Congestion,SYMPTOM
+929,Cloudy Or Bloody Urine,SYMPTOM
+930,Persistent Cough With Yellow Or Green Mucus,SYMPTOM
+931,Chest Congestion,SYMPTOM
+932,Abdominal Pain Or Cramps,SYMPTOM
+933,Severe Abdominal Or Back Pain,SYMPTOM
+934,Pain During Urination,SYMPTOM
+935,Fragile Bones,SYMPTOM
+936,Loss Of Height Over Time,SYMPTOM
+937,Back Pain,SYMPTOM
+938,Increased Hunger,SYMPTOM
+939,Slow Healing Of Wounds,SYMPTOM

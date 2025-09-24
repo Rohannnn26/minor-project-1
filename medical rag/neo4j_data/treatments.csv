@@ -1,0 +1,1293 @@
+id,name,type
+1,Antidepressant Medications,TREATMENT
+2,Cognitive Behavioral Therapy,TREATMENT
+3,Relaxation Techniques,TREATMENT
+4,Voice Rest,TREATMENT
+5,Speech Therapy,TREATMENT
+6,Surgical Removal,TREATMENT
+7,Growth Hormone Therapy,TREATMENT
+8,Estrogen Replacement Therapy,TREATMENT
+9,Cardiac And Renal Evaluations,TREATMENT
+10,Observation And Monitoring (In Cases Of Mild Or Transient Cryptorchidism),TREATMENT
+11,Hormone Therapy (To Stimulate Testicular Descent),TREATMENT
+12,Surgical Intervention (Orchiopexy) To Reposition The Testicle(S) Into The Scrotum,TREATMENT
+13,If Necessary,TREATMENT
+14,Performed Around The Age Of 6 To 12 Months,TREATMENT
+15,Open Or Laparoscopic Surgery (In Cases Of High Or Persistent Cryptorchidism),TREATMENT
+16,Testicular Prostheses (In Cases Of Absent Or Non-Functional Testicles),TREATMENT
+17,Regular Follow-Up Visits With A Urologist Or Pediatric Surgeon,TREATMENT
+18,Supportive Measures,TREATMENT
+19,Gastric Decontamination,TREATMENT
+20,Antidote Administration,TREATMENT
+21,Hemodialysis,TREATMENT
+22,Blood Tests,TREATMENT
+23,Vaginal Moisturizers,TREATMENT
+24,Vaginal Estrogen Therapy,TREATMENT
+25,Lifestyle Modifications,TREATMENT
+26,Immobilization,TREATMENT
+27,Surgery,TREATMENT
+28,Rehabilitation,TREATMENT
+29,Antibiotics,TREATMENT
+30,Warm Compresses,TREATMENT
+31,Rest,TREATMENT
+32,Pain Management,TREATMENT
+33,Glasses,TREATMENT
+34,Patching Therapy,TREATMENT
+35,Vision Therapy,TREATMENT
+36,Botox Injections,TREATMENT
+37,Surgical Intervention,TREATMENT
+38,Epidural Blood Patch,TREATMENT
+39,Conservative Measures,TREATMENT
+40,Ultrasound,TREATMENT
+41,Pyloromyotomy,TREATMENT
+42,Radiation Therapy,TREATMENT
+43,Surgical Excision,TREATMENT
+44,Observation,TREATMENT
+45,Surgical Removal If Necessary,TREATMENT
+46,Physical Therapy,TREATMENT
+47,Pain Medications,TREATMENT
+48,Saliva Stimulation,TREATMENT
+49,Sialagogues,TREATMENT
+50,Stone Removal,TREATMENT
+51,Hydration,TREATMENT
+52,Supportive Care,TREATMENT
+53,Pain Relievers,TREATMENT
+54,Isolation,TREATMENT
+55,Vaccination (Mmr),TREATMENT
+56,Intravenous Antibiotics,TREATMENT
+57,Airway Management,TREATMENT
+58,Surgical Drainage,TREATMENT
+59,Symptomatic Relief With Artificial Tears,TREATMENT
+60,Saliva Substitutes,TREATMENT
+61,Frequent Sips Of Water,TREATMENT
+62,Medications To Stimulate Saliva Production,TREATMENT
+63,Immune-Modulating Drugs,TREATMENT
+64,Eye Drops To Lower Intraocular Pressure (E.G.,TREATMENT
+65,Prostaglandin Analogs,TREATMENT
+66,Beta Blockers,TREATMENT
+67,Alpha Agonists,TREATMENT
+68,Carbonic Anhydrase Inhibitors),TREATMENT
+69,Oral Medications (E.G.,TREATMENT
+70,Laser Trabeculoplasty,TREATMENT
+71,Surgical Procedures (E.G.,TREATMENT
+72,Trabeculectomy,TREATMENT
+73,Glaucoma Drainage Implants),TREATMENT
+74,Medications (E.G.,TREATMENT
+75,Oral Or Intravenous Acetazolamide,TREATMENT
+76,Topical Beta Blockers,TREATMENT
+77,Prostaglandin Analogs),TREATMENT
+78,Laser Peripheral Iridotomy,TREATMENT
+79,Surgery (E.G.,TREATMENT
+80,Trabeculotomy,TREATMENT
+81,Goniotomy) To Create A New Drainage Pathway,TREATMENT
+82,Medications To Reduce Intraocular Pressure,TREATMENT
+83,Treatment Of The Underlying Condition (E.G.,TREATMENT
+84,Medication Adjustments,TREATMENT
+85,Trauma Management,TREATMENT
+86,Tumor Removal,TREATMENT
+87,Inflammation Control),TREATMENT
+88,Observation With Regular Eye Exams,TREATMENT
+89,Use Of Eye Drops To Lower Intraocular Pressure (If Necessary),TREATMENT
+90,Medical Monitoring,TREATMENT
+91,Nutritional Counseling,TREATMENT
+92,Psychotherapy (Such As Cognitive-Behavioral Therapy Or Family-Based Therapy),TREATMENT
+93,Medications (In Some Cases),TREATMENT
+94,Hospitalization (For Severe Cases),TREATMENT
+95,Support Groups,TREATMENT
+96,Psychotherapy (Such As Cognitive-Behavioral Therapy Or Dialectical Behavior Therapy),TREATMENT
+97,Psychotherapy (Such As Cognitive-Behavioral Therapy Or Interpersonal Therapy),TREATMENT
+98,Exposure Therapy,TREATMENT
+99,Occupational Therapy,TREATMENT
+100,Treatment Is Based On The Specific Symptoms And Can Include A Combination Of Psychotherapy,TREATMENT
+101,And Medications As Necessary,TREATMENT
+102,Psychotherapy (Such As Cognitive-Behavioral Therapy Or Acceptance And Commitment Therapy),TREATMENT
+103,Nutrition Education,TREATMENT
+104,Challenging Distorted Beliefs,TREATMENT
+105,Addressing Underlying Issues,TREATMENT
+106,Behavioral Therapy,TREATMENT
+107,Addressing Underlying Nutritional Deficiencies,TREATMENT
+108,Addressing Any Medical Complications,TREATMENT
+109,Family Support,TREATMENT
+110,Behavioral Therapy (Such As Diaphragmatic Breathing Techniques),TREATMENT
+111,Biofeedback,TREATMENT
+112,Addressing Any Underlying Psychological Or Medical Conditions,TREATMENT
+113,Dietary Modifications,TREATMENT
+114,Antiplatelet Medications,TREATMENT
+115,Carotid Endarterectomy,TREATMENT
+116,Anticoagulant Medications,TREATMENT
+117,Antibiotics (Such As Fluoroquinolones,TREATMENT
+118,Cephalosporins,TREATMENT
+119,Or Trimethoprim-Sulfamethoxazole) To Target The Specific Bacteria Causing The Infection,TREATMENT
+120,Adequate Hydration,TREATMENT
+121,Pain Management (Such As Over-The-Counter Pain Relievers Or Prescription Medications),TREATMENT
+122,Hospitalization (For Severe Cases Or Complications),TREATMENT
+123,Urine Culture To Guide Antibiotic Therapy,TREATMENT
+124,Non-Surgical Treatment Options: Rest,TREATMENT
+125,Ice Or Heat Therapy,TREATMENT
+126,Physical Therapy Exercises,TREATMENT
+127,Arthroscopic Surgery,TREATMENT
+128,Medications (Such As Pain Relievers,TREATMENT
+129,Antidepressants,TREATMENT
+130,Anticonvulsants),TREATMENT
+131,Cognitive-Behavioral Therapy,TREATMENT
+132,Stress Management Techniques,TREATMENT
+133,Exercise,TREATMENT
+134,Good Sleep Hygiene,TREATMENT
+135,Symptom Management (Such As Medications To Address Pain,TREATMENT
+136,Sleep Disturbances,TREATMENT
+137,And Other Symptoms),TREATMENT
+138,Graded Exercise Therapy,TREATMENT
+139,Sleep Management Techniques,TREATMENT
+140,Pacing And Energy Conservation,TREATMENT
+141,Stress Reduction Techniques,TREATMENT
+142,Nutritional Support,TREATMENT
+143,Medications For Specific Symptoms,TREATMENT
+144,Corticosteroids,TREATMENT
+145,Sympathetic Nerve Blocks,TREATMENT
+146,Spinal Cord Stimulation,TREATMENT
+147,Mirror Therapy,TREATMENT
+148,Psychotherapy,TREATMENT
+149,Graded Motor Imagery,TREATMENT
+150,Trigger Point Injections,TREATMENT
+151,Dry Needling,TREATMENT
+152,Muscle Relaxants),TREATMENT
+153,Stress Management,TREATMENT
+154,Massage Therapy,TREATMENT
+155,Myofascial Release,TREATMENT
+156,Heat Or Cold Therapy,TREATMENT
+157,Medications (Such As Preventive Medications,TREATMENT
+158,Triptans),TREATMENT
+159,Lifestyle Modifications (Such As Identifying Triggers,TREATMENT
+160,Regular Sleep Patterns),TREATMENT
+161,Nerve Blocks,TREATMENT
+162,Neuromodulation Devices,TREATMENT
+163,Acupuncture,TREATMENT
+164,Medications (Such As Antidepressants,TREATMENT
+165,Anticonvulsants,TREATMENT
+166,Topical Treatments),TREATMENT
+167,Transcutaneous Electrical Nerve Stimulation (Tens),TREATMENT
+168,Blood Sugar Monitoring,TREATMENT
+169,Healthy Diet Modifications,TREATMENT
+170,Regular Exercise,TREATMENT
+171,Insulin Injections (If Needed),TREATMENT
+172,Close Monitoring By Healthcare Provider,TREATMENT
+173,Monitoring Blood Pressure,TREATMENT
+174,Lifestyle Modifications (Such As Salt Restriction,TREATMENT
+175,Regular Exercise),TREATMENT
+176,Medication (Such As Antihypertensive Drugs) If Necessary,TREATMENT
+177,Bed Rest,TREATMENT
+178,Blood Pressure Monitoring,TREATMENT
+179,Frequent Prenatal Visits,TREATMENT
+180,Medication (Such As Antihypertensive Drugs),TREATMENT
+181,Magnesium Sulfate (For Severe Cases),TREATMENT
+182,Delivery Of The Baby (In Severe Cases),TREATMENT
+183,Intravenous Fluids To Prevent Dehydration,TREATMENT
+184,Anti-Nausea Medications,TREATMENT
+185,Monitoring For Weight Loss And Electrolyte Imbalance,TREATMENT
+186,Antibiotics Safe For Pregnancy,TREATMENT
+187,Increased Fluid Intake,TREATMENT
+188,Maintaining Good Hygiene,TREATMENT
+189,Urine Culture And Sensitivity Testing To Guide Antibiotic Selection,TREATMENT
+190,Iron Supplementation,TREATMENT
+191,Dietary Changes (Iron-Rich Foods),TREATMENT
+192,Managing Underlying Causes (Such As Treating Iron Deficiency Or Vitamin B12 Deficiency),TREATMENT
+193,Prenatal Vitamins,TREATMENT
+194,Prenatal Exercises (Such As Stretching And Strengthening Exercises),TREATMENT
+195,Good Posture,TREATMENT
+196,Prenatal Massages,TREATMENT
+197,Supportive Devices (Such As Pregnancy Belts),TREATMENT
+198,Resting,TREATMENT
+199,Changing Positions Slowly,TREATMENT
+200,Gentle Stretching,TREATMENT
+201,Avoiding Sudden Movements,TREATMENT
+202,Avoiding Strenuous Activity,TREATMENT
+203,Frequent Prenatal Check-Ups,TREATMENT
+204,Potential Hospitalization,TREATMENT
+205,Potential Cesarean Delivery,TREATMENT
+206,Wrist Splints,TREATMENT
+207,Avoiding Repetitive Hand Movements,TREATMENT
+208,Applying Cold Or Hot Compresses,TREATMENT
+209,Gentle Exercises,TREATMENT
+210,Ergonomic Adjustments,TREATMENT
+211,Gentle Stretching Exercises,TREATMENT
+212,Warm Or Cold Compresses,TREATMENT
+213,Maintaining Good Posture,TREATMENT
+214,Avoiding Activities That Worsen The Pain,TREATMENT
+215,Elevating Legs,TREATMENT
+216,Wearing Compression Stockings,TREATMENT
+217,Avoiding Prolonged Sitting Or Standing,TREATMENT
+218,Maintaining A Healthy Weight,TREATMENT
+219,Increasing Fiber Intake,TREATMENT
+220,Staying Hydrated,TREATMENT
+221,Avoiding Straining During Bowel Movements,TREATMENT
+222,Warm Sitz Baths,TREATMENT
+223,Topical Creams Or Ointments,TREATMENT
+224,Over-The-Counter Pain Relievers (After Consulting With A Healthcare Provider),TREATMENT
+225,Chemotherapy,TREATMENT
+226,Targeted Therapy,TREATMENT
+227,Immunotherapy,TREATMENT
+228,Radiofrequency Ablation,TREATMENT
+229,Transarterial Chemoembolization (Tace),TREATMENT
+230,Selective Internal Radiation Therapy (Sirt),TREATMENT
+231,Palliative Care,TREATMENT
+232,Clinical Trials,TREATMENT
+233,Treatment Of The Underlying Cause (Such As Removal Of Airway Obstruction,TREATMENT
+234,Treatment Of Lung Infection),TREATMENT
+235,Deep Breathing Exercises,TREATMENT
+236,Coughing Techniques,TREATMENT
+237,Incentive Spirometry,TREATMENT
+238,Chest Physiotherapy,TREATMENT
+239,Bronchodilator Medications,TREATMENT
+240,Supplemental Oxygen Therapy,TREATMENT
+241,Immediate Medical Attention,TREATMENT
+242,Potential Medical Procedures (Such As Medication Or Surgery To Remove The Ectopic Pregnancy),TREATMENT
+243,Close Monitoring,TREATMENT
+244,Emotional Support,TREATMENT
+245,Non-Surgical Treatment Options: Medications To Manage Pain And Discomfort,TREATMENT
+246,Treatment Aims To Manage Symptoms,TREATMENT
+247,Slow Down Disease Progression,TREATMENT
+248,And Address Underlying Causes. It May Include: Lifestyle Modifications (E.G.,TREATMENT
+249,Avoiding Alcohol,TREATMENT
+250,Maintaining A Healthy Diet),TREATMENT
+251,Medication (E.G.,TREATMENT
+252,Diuretics,TREATMENT
+253,Lactulose,TREATMENT
+254,Antiviral Drugs),TREATMENT
+255,Procedures (E.G.,TREATMENT
+256,Paracentesis,TREATMENT
+257,Transjugular Intrahepatic Portosystemic Shunt),TREATMENT
+258,Liver Transplantation (In Severe Cases),TREATMENT
+259,Regular Monitoring And Imaging Tests To Assess Aneurysm Size And Growth,TREATMENT
+260,Lifestyle Modifications (E.G.,TREATMENT
+261,Blood Pressure Control,TREATMENT
+262,Avoiding Smoking,TREATMENT
+263,Managing Cholesterol Levels),TREATMENT
+264,Beta-Blockers,TREATMENT
+265,Ace Inhibitors) To Manage Blood Pressure And Reduce The Risk Of Rupture,TREATMENT
+266,Close Monitoring Of Vital Signs And Neurological Status,TREATMENT
+267,Diagnostic Imaging (Such As Ct Or Mri Scan),TREATMENT
+268,Potential Surgical Intervention (Such As Craniotomy Or Burr Hole Evacuation),TREATMENT
+269,Medication To Manage Symptoms,TREATMENT
+270,Supportive Care To Manage Symptoms And Complications,TREATMENT
+271,Early Intervention Services For Developmental Delays,TREATMENT
+272,Educational Support,TREATMENT
+273,Vision And Hearing Interventions,TREATMENT
+274,Specialized Medical Care As Needed,TREATMENT
+275,Management Of Blood Sugar Levels,TREATMENT
+276,Cholesterol Management,TREATMENT
+277,Regular Eye Examinations,TREATMENT
+278,Laser Treatment,TREATMENT
+279,Intravitreal Injections Of Anti-Vegf Medications,TREATMENT
+280,Vitrectomy,TREATMENT
+281,Multidisciplinary Approach: Medications For Pain Management (Such As Analgesics,TREATMENT
+282,And Anticonvulsants),TREATMENT
+283,Exercise Programs,TREATMENT
+284,Diagnostic Tests,TREATMENT
+285,Intravenous Fluids And Medications To Stabilize The Patient,TREATMENT
+286,Bowel Rest,TREATMENT
+287,Resection,TREATMENT
+288,Bypass Procedure,TREATMENT
+289,Potential Angioplasty,TREATMENT
+290,Speech And Occupational Therapy,TREATMENT
+291,Behavioral Interventions,TREATMENT
+292,Medical Management Of Associated Health Issues,TREATMENT
+293,Intravenous Antibiotics To Treat The Infection,TREATMENT
+294,Intravenous Fluids To Restore Hydration,TREATMENT
+295,Drainage Or Removal Of Any Underlying Fluid Or Abscess,TREATMENT
+296,Surgery To Repair Or Remove The Source Of Infection,TREATMENT
+297,X-Ray,TREATMENT
+298,Ct Scan,TREATMENT
+299,Stabilization Of Vital Signs,TREATMENT
+300,Observation For Signs Of Internal Bleeding,TREATMENT
+301,Potential Surgical Intervention,TREATMENT
+302,Wound Care,TREATMENT
+303,Hospitalization,TREATMENT
+304,Medications To Control Pain And Inflammation,TREATMENT
+305,Medications To Manage Pain And Inflammation,TREATMENT
+306,Compression Stockings Or Bandages To Promote Blood Flow,TREATMENT
+307,Elevation Of The Affected Limb,TREATMENT
+308,Regular Movement And Exercise,TREATMENT
+309,Treatment Of Underlying Causes (Such As Infection Or Intravenous Catheter Removal),TREATMENT
+310,Anticoagulant Therapy To Prevent Clot Formation Or Progression,TREATMENT
+311,Long-Term Control Medications (Such As Inhaled Corticosteroids,TREATMENT
+312,Long-Acting Beta-Agonists),TREATMENT
+313,Quick-Relief Medications (Such As Short-Acting Beta-Agonists),TREATMENT
+314,Avoidance Of Triggers (Such As Allergens,TREATMENT
+315,Smoke),TREATMENT
+316,Regular Monitoring Of Symptoms And Lung Function,TREATMENT
+317,Development Of An Asthma Action Plan,TREATMENT
+318,Proper Inhaler Technique,TREATMENT
+319,Regular Follow-Up With A Healthcare Provider,TREATMENT
+320,Emergency Medications (Such As Oral Corticosteroids) As Needed,TREATMENT
+321,Lifestyle Changes (Such As Regular Exercise,TREATMENT
+322,Avoiding Triggers Like Caffeine),TREATMENT
+323,Good Sleep Hygiene (Maintaining A Regular Sleep Schedule),TREATMENT
+324,Leg Massages Or Stretching Exercises,TREATMENT
+325,Hot Or Cold Packs,TREATMENT
+326,Medication Therapy (Such As Dopamine Agonists,TREATMENT
+327,Opioids),TREATMENT
+328,Iron Supplementation (If Iron Deficiency Is Present),TREATMENT
+329,Smoking Cessation (The Most Important Intervention),TREATMENT
+330,Medications To Manage Symptoms (Such As Bronchodilators,TREATMENT
+331,Inhaled Corticosteroids),TREATMENT
+332,Pulmonary Rehabilitation (Exercise Training,TREATMENT
+333,Breathing Techniques),TREATMENT
+334,Supplemental Oxygen Therapy (In Advanced Cases),TREATMENT
+335,Vaccination Against Respiratory Infections,TREATMENT
+336,Avoiding Exposure To Irritants (Such As Secondhand Smoke Or Air Pollutants),TREATMENT
+337,Surgical Interventions (Such As Lung Volume Reduction Surgery Or Lung Transplantation),TREATMENT
+338,Medical Abortion: Medication (Such As Mifepristone And Misoprostol) Is Used To Induce Abortion,TREATMENT
+339,Which Can Be Done In The Early Stages Of Pregnancy. Surgical Abortion: A Healthcare Professional Performs A Procedure To Remove The Pregnancy,TREATMENT
+340,Which Can Involve Suction Aspiration Or Dilation And Curettage (D&C). It'S Important To Consult With A Healthcare Professional To Discuss The Options And Determine The Most Suitable Method.,TREATMENT
+341,Home Remedies (Such As Nasal Saline Irrigation,TREATMENT
+342,Steam Inhalation),TREATMENT
+343,Over-The-Counter Pain Relievers (Such As Acetaminophen Or Ibuprofen),TREATMENT
+344,Nasal Decongestants (For Short-Term Use),TREATMENT
+345,Nasal Corticosteroids (To Reduce Inflammation),TREATMENT
+346,Plenty Of Fluids And Rest,TREATMENT
+347,Avoidance Of Irritants (Such As Smoke Or Allergens),TREATMENT
+348,Prescription Antibiotics (If Bacterial Infection Is Suspected Or Confirmed),TREATMENT
+349,Management Of Underlying Causes (Such As Allergies Or Nasal Polyps),TREATMENT
+350,Symptom Relief Medications (Such As Cough Suppressants Or Antihistamines),TREATMENT
+351,Regular Monitoring And Surveillance To Detect And Manage Tumor Growth And Associated Complications,TREATMENT
+352,Surgical Removal Or Treatment Of Tumors If Necessary,TREATMENT
+353,Embolization Or Radiation Therapy For Certain Tumors,TREATMENT
+354,Medication Or Surgery To Manage Hormonal Issues (Such As Pheochromocytomas),TREATMENT
+355,Genetic Counseling And Testing,TREATMENT
+356,Screening And Management For Other Potential Complications (Such As Kidney Function Monitoring),TREATMENT
+357,Detoxification (If Necessary),TREATMENT
+358,Counseling Or Therapy (Such As Cognitive-Behavioral Therapy,TREATMENT
+359,Motivational Interviewing),TREATMENT
+360,Support Groups (Such As Alcoholics Anonymous),TREATMENT
+361,Medication (Such As Disulfiram,TREATMENT
+362,Naltrexone,TREATMENT
+363,Acamprosate),TREATMENT
+364,Addressing Underlying Psychological Or Social Factors,TREATMENT
+365,Lifestyle Changes,TREATMENT
+366,Ongoing Monitoring And Support,TREATMENT
+367,Medication-Assisted Treatment (Such As Methadone,TREATMENT
+368,Buprenorphine,TREATMENT
+369,Naltrexone),TREATMENT
+370,Contingency Management),TREATMENT
+371,Support Groups (Such As Narcotics Anonymous),TREATMENT
+372,Harm Reduction Strategies,TREATMENT
+373,Medication (If Applicable),TREATMENT
+374,Addressing Co-Occurring Mental Health Conditions,TREATMENT
+375,Gradual Tapering Off Benzodiazepines Under Medical Supervision,TREATMENT
+376,Counseling Or Therapy (Such As Cognitive-Behavioral Therapy),TREATMENT
+377,Gradual Tapering Off Sedatives,TREATMENT
+378,Hypnotics,TREATMENT
+379,Or Anxiolytics Under Medical Supervision,TREATMENT
+380,Support Groups Or Peer Counseling,TREATMENT
+381,Antidepressant Medication (If Recommended By A Healthcare Professional),TREATMENT
+382,Hormone Therapy (In Some Cases),TREATMENT
+383,Lifestyle Changes (Such As Exercise,TREATMENT
+384,Healthy Diet,TREATMENT
+385,Sleep Hygiene),TREATMENT
+386,Involving A Partner Or Family In The Care Of The Baby,TREATMENT
+387,Social Support And Understanding From Family And Friends,TREATMENT
+388,Regular Follow-Up And Monitoring By Healthcare Professionals,TREATMENT
+389,Lifestyle Changes (Such As A Heart-Healthy Diet,TREATMENT
+390,Weight Management,TREATMENT
+391,Smoking Cessation),TREATMENT
+392,Medication (Such As Aspirin,TREATMENT
+393,Cholesterol-Lowering Medications,TREATMENT
+394,Calcium Channel Blockers,TREATMENT
+395,Nitroglycerin),TREATMENT
+396,Procedures (Such As Angioplasty And Stenting,TREATMENT
+397,Coronary Artery Bypass Grafting),TREATMENT
+398,Cardiac Rehabilitation,TREATMENT
+399,Management Of Other Risk Factors (Such As High Blood Pressure,TREATMENT
+400,Diabetes),TREATMENT
+401,Medication (Such As Nonsteroidal Anti-Inflammatory Drugs,TREATMENT
+402,Disease-Modifying Antirheumatic Drugs),TREATMENT
+403,Physical Therapy (Including Stretching And Strengthening Exercises),TREATMENT
+404,Posture Correction Techniques,TREATMENT
+405,Lifestyle Modifications (Such As Regular Exercise,TREATMENT
+406,Weight Management),TREATMENT
+407,Assistive Devices (Such As Braces Or Supports),TREATMENT
+408,Surgical Intervention (In Rare Cases),TREATMENT
+409,Pain Management Techniques (Such As Acupuncture Or Transcutaneous Electrical Nerve Stimulation),TREATMENT
+410,Observation And Monitoring (For Small,TREATMENT
+411,Non-Secreting Tumors That Are Not Causing Significant Symptoms),TREATMENT
+412,Medication (To Manage Hormonal Imbalances Or Reduce Tumor Size),TREATMENT
+413,Surgery (Transsphenoidal Surgery To Remove The Tumor),TREATMENT
+414,Radiation Therapy (In Cases Where Surgery Is Not Possible Or To Treat Residual Or Recurrent Tumors),TREATMENT
+415,Targeted Therapy (In Cases Of Aggressive Or Resistant Tumors),TREATMENT
+416,Hormone Replacement Therapy (If Necessary),TREATMENT
+417,Regular Follow-Up And Monitoring To Assess Tumor Growth And Hormone Levels,TREATMENT
+418,Management Of Associated Complications Or Hormone Deficiencies,TREATMENT
+419,Watchful Waiting (For Small Or Asymptomatic Fibroids),TREATMENT
+420,Medication (Such As Hormonal Birth Control,TREATMENT
+421,Gnrh Agonists,TREATMENT
+422,Progestin-Releasing Intrauterine Devices),TREATMENT
+423,Minimally Invasive Procedures (Such As Uterine Artery Embolization,TREATMENT
+424,Myomectomy),TREATMENT
+425,Hysteroscopic Procedures (Such As Hysteroscopic Myomectomy Or Endometrial Ablation),TREATMENT
+426,Surgical Removal Of Fibroids (Such As Laparoscopic Or Robotic-Assisted Myomectomy,TREATMENT
+427,Hysterectomy),TREATMENT
+428,Focused Ultrasound Ablation,TREATMENT
+429,Hormonal Therapy,TREATMENT
+430,Alternative Approaches (Such As Acupuncture Or Herbal Remedies),TREATMENT
+431,Evaluation To Rule Out Underlying Causes (Such As Hormonal Imbalances,TREATMENT
+432,Polyps,TREATMENT
+433,Infections,TREATMENT
+434,Or Uterine Abnormalities),TREATMENT
+435,Hormonal Therapy (Such As Birth Control Pills,TREATMENT
+436,Hormone Replacement Therapy),TREATMENT
+437,Non-Hormonal Medications (Such As Tranexamic Acid),TREATMENT
+438,Dilation And Curettage (If Necessary To Remove Excessive Tissue Or Investigate The Cause),TREATMENT
+439,Endometrial Ablation (In Some Cases),TREATMENT
+440,Hysteroscopy (To Examine The Uterus),TREATMENT
+441,Surgery (In Rare Cases),TREATMENT
+442,Counseling Or Support For Emotional Well-Being,TREATMENT
+443,Warm Compresses (To Help Soften And Promote Drainage Of The Blocked Oil Gland),TREATMENT
+444,Gentle Massage Of The Affected Area,TREATMENT
+445,Eyelid Hygiene (Keeping The Area Clean),TREATMENT
+446,Over-The-Counter Lubricating Eye Drops,TREATMENT
+447,Topical Antibiotic Ointments (If There Is A Risk Of Infection),TREATMENT
+448,Corticosteroid Injections (For Larger Or Persistent Chalazia),TREATMENT
+449,Surgical Drainage Or Excision (In Rare Cases Or If Conservative Treatments Are Ineffective),TREATMENT
+450,Emergency Medical Attention (As Ovarian Torsion Is A Medical Emergency),TREATMENT
+451,Imaging Tests (Such As Ultrasound Or Ct Scan) To Diagnose Torsion,TREATMENT
+452,Surgical Intervention (Laparoscopic Or Open Surgery) To Untwist The Ovary And Restore Blood Flow,TREATMENT
+453,Removal Of The Ovary (If It Is Damaged Or Non-Viable),TREATMENT
+454,Pain Management (Medications For Pain Relief),TREATMENT
+455,Over-The-Counter Antifungal Creams,TREATMENT
+456,Ointments,TREATMENT
+457,Or Suppositories (Such As Miconazole,TREATMENT
+458,Clotrimazole,TREATMENT
+459,Or Terconazole),TREATMENT
+460,Prescription-Strength Antifungal Medications (In Severe Or Recurrent Cases),TREATMENT
+461,Oral Antifungal Medications (If Recommended By A Healthcare Professional),TREATMENT
+462,Topical Corticosteroids (For Relief Of Itching And Inflammation),TREATMENT
+463,Maintaining Good Hygiene Practices,TREATMENT
+464,Avoiding Irritants (Such As Scented Products),TREATMENT
+465,Wearing Breathable Cotton Underwear,TREATMENT
+466,Avoiding Tight-Fitting Clothing,TREATMENT
+467,Probiotics (To Restore Healthy Vaginal Flora),TREATMENT
+468,Antibiotics (Oral Or Intravenous) To Treat The Underlying Bacterial Infection,TREATMENT
+469,Pain Relievers (Such As Acetaminophen Or Ibuprofen) For Pain And Fever,TREATMENT
+470,Ear Drops (If There Is Drainage From The Ear),TREATMENT
+471,Surgical Intervention (In Severe Or Chronic Cases),TREATMENT
+472,Such As Mastoidectomy (Removal Of Infected Mastoid Bone Cells) Or Tympanostomy Tube Placement (To Relieve Pressure And Drain Fluid From The Middle Ear),TREATMENT
+473,Supportive Care (Rest,TREATMENT
+474,Warm Compresses),TREATMENT
+475,Supportive Care (Including Supplemental Oxygen,TREATMENT
+476,And Respiratory Support),TREATMENT
+477,Monitoring In A Hospital Setting (To Assess Lung Function And Overall Stability),TREATMENT
+478,Treatment Of Associated Injuries (Such As Rib Fractures),TREATMENT
+479,Management Of Complications (Such As Pneumonia Or Respiratory Failure),TREATMENT
+480,Prevention Of Further Complications (Such As Deep Vein Thrombosis Or Pressure Ulcers),TREATMENT
+481,Respiratory Therapy (Including Breathing Exercises And Airway Clearance Techniques),TREATMENT
+482,Possible Use Of Mechanical Ventilation In Severe Cases,TREATMENT
+483,Medications To Relieve Symptoms And Improve Heart Function (Such As Beta-Blockers,TREATMENT
+484,And Disopyramide),TREATMENT
+485,Medications To Prevent Abnormal Heart Rhythms (Such As Anti-Arrhythmic Drugs),TREATMENT
+486,Medications To Reduce Blood Clotting (Such As Aspirin Or Anticoagulants),TREATMENT
+487,Implantable Cardioverter-Defibrillator (Icd) Placement (To Monitor And Correct Abnormal Heart Rhythms),TREATMENT
+488,Septal Myectomy (Surgical Removal Of A Portion Of The Thickened Heart Muscle),TREATMENT
+489,Alcohol Septal Ablation (Destruction Of Excess Heart Muscle With Alcohol Injection),TREATMENT
+490,Lifestyle Modifications (Such As Avoiding Strenuous Activities,TREATMENT
+491,Managing Stress,TREATMENT
+492,And Maintaining A Healthy Weight),TREATMENT
+493,Regular Follow-Up Visits With A Cardiologist,TREATMENT
+494,Identification And Treatment Of Underlying Causes (Such As Parasitic Infections,TREATMENT
+495,Drug Reactions,TREATMENT
+496,Or Allergic Reactions),TREATMENT
+497,Corticosteroids (Such As Prednisone) To Reduce Inflammation,TREATMENT
+498,Bronchodilators (Such As Inhalers) To Relieve Bronchospasm And Improve Airflow,TREATMENT
+499,Antiparasitic Medications (If Parasitic Infection Is Identified),TREATMENT
+500,Immunosuppressive Medications (In Severe Cases),TREATMENT
+501,Avoidance Of Triggers Or Allergens (If Identified),TREATMENT
+502,Symptomatic Treatment For Associated Symptoms (Such As Fever Or Cough),TREATMENT
+503,Regular Monitoring And Follow-Up With A Healthcare Professional,TREATMENT
+504,Treatment Depends On The Specific Corneal Disorder And May Include: Artificial Tears Or Lubricating Eye Drops,TREATMENT
+505,Antibiotic Or Antifungal Eye Drops (If Infection Is Present),TREATMENT
+506,Corticosteroid Eye Drops Or Ointments (To Reduce Inflammation),TREATMENT
+507,Bandage Contact Lenses,TREATMENT
+508,Therapeutic Contact Lenses,TREATMENT
+509,Corneal Transplantation (In Severe Cases),TREATMENT
+510,Refractive Surgeries (Such As Lasik Or Prk) To Correct Vision,TREATMENT
+511,Protective Eyewear Or Sunglasses,TREATMENT
+512,Avoiding Irritants Or Triggers,TREATMENT
+513,Regular Eye Examinations And Monitoring,TREATMENT
+514,Lifestyle Modifications (Such As Proper Eye Hygiene And Avoiding Eye Strain),TREATMENT
+515,Smooth,TREATMENT
+516,And Non-Sharp Objects That Are Likely To Pass Through The Digestive Tract Without Complications),TREATMENT
+517,Endoscopic Removal (Using A Flexible Tube With A Camera To Locate And Remove The Foreign Body),TREATMENT
+518,Surgical Intervention (In Cases Of Severe Complications,TREATMENT
+519,Large Or Sharp Objects,TREATMENT
+520,Or Failed Endoscopic Removal Attempts),TREATMENT
+521,Supportive Care (Such As Intravenous Fluids,TREATMENT
+522,And Antibiotics If Infection Is Present),TREATMENT
+523,Imaging Studies (Such As X-Rays Or Ct Scans) To Evaluate The Location And Extent Of The Foreign Body,TREATMENT
+524,Consultation With A Gastroenterologist Or Surgeon For Appropriate Management,TREATMENT
+525,Immediate Medical Attention Is Required. Treatment May Include: Intravenous Antibiotics Or Antifungal Medications,TREATMENT
+526,Intravitreal Injections (Injections Of Antibiotics Or Antifungal Agents Directly Into The Eye),TREATMENT
+527,Vitrectomy (Surgical Removal Of The Gel-Like Fluid Within The Eye),TREATMENT
+528,Topical Or Oral Medications (To Manage Pain,TREATMENT
+529,Inflammation,TREATMENT
+530,Or Infection),TREATMENT
+531,Frequent Follow-Up Visits With An Ophthalmologist,TREATMENT
+532,Supportive Care (Such As Warm Compresses Or Lubricating Eye Drops),TREATMENT
+533,Balloon Dilation,TREATMENT
+534,Medication,TREATMENT
+535,Medications,TREATMENT
+536,Hearing Aids,TREATMENT
+537,Watchful Waiting,TREATMENT
+538,Hernia Truss,TREATMENT
+539,Surgical Repair,TREATMENT
+540,Counseling,TREATMENT
+541,Detoxification,TREATMENT
+542,Antifungal Medication (E.G.,TREATMENT
+543,Amphotericin B,TREATMENT
+544,Fluconazole),TREATMENT
+545,Antifungal Medication Eg Amphotericin B,TREATMENT
+546,Fluconazole,TREATMENT
+547,Lifestyle Changes (E.G.,TREATMENT
+548,Stress Reduction),TREATMENT
+549,Over-The-Counter Antacids,TREATMENT
+550,Therapy,TREATMENT
+551,Ice,TREATMENT
+552,Compression,TREATMENT
+553,Elevation (Rice Therapy),TREATMENT
+554,Steroid Injections,TREATMENT
+555,Medications To Manage Underlying Conditions (E.G.,TREATMENT
+556,Heart Failure),TREATMENT
+557,Oxygen Therapy,TREATMENT
+558,Medications (Nsaids,TREATMENT
+559,Dmards),TREATMENT
+560,Assistive Devices,TREATMENT
+561,Topical Medications (E.G.,TREATMENT
+562,Fluorouracil,TREATMENT
+563,Imiquimod,TREATMENT
+564,Diclofenac),TREATMENT
+565,Cryotherapy,TREATMENT
+566,Curettag,TREATMENT
+567,Pain Relievers (E.G.,TREATMENT
+568,Acetaminophen,TREATMENT
+569,Ibuprofen),TREATMENT
+570,Ear Drops,TREATMENT
+571,Tympanostomy Tubes (In Some Cases),TREATMENT
+572,Eyeglasses,TREATMENT
+573,Contact Lenses,TREATMENT
+574,Refractive Surgery (Lasik,TREATMENT
+575,Prk),TREATMENT
+576,Orthokeratology,TREATMENT
+577,Toric Intraocular Lenses,TREATMENT
+578,Medications (Anti-Seizure,TREATMENT
+579,Behavioral,TREATMENT
+580,Etc.),TREATMENT
+581,Surgery (For Tumor Removal),TREATMENT
+582,Therapy (Physical,TREATMENT
+583,Occupational,TREATMENT
+584,Speech),TREATMENT
+585,Educational Interventions,TREATMENT
+586,Support Services,TREATMENT
+587,Genetic Counseling,TREATMENT
+588,Monitoring Of Organ Involvement,TREATMENT
+589,Drainage (Chest Tube Insertion,TREATMENT
+590,Thoracentesis),TREATMENT
+591,Surgical Intervention (Decortication),TREATMENT
+592,Treatment Of Underlying Cause,TREATMENT
+593,Assistive Listening Devices,TREATMENT
+594,Cochlear Implants (In Severe Cases),TREATMENT
+595,Communication Strategies,TREATMENT
+596,Regular Hearing Evaluations,TREATMENT
+597,Phototherapy,TREATMENT
+598,Exchange Transfusion (In Severe Cases),TREATMENT
+599,Monitoring Of Bilirubin Levels,TREATMENT
+600,Addressing Underlying Causes (E.G.,TREATMENT
+601,Breastfeeding),TREATMENT
+602,Closed Reduction (Realigning The Bones Without Surgery),TREATMENT
+603,Immobilization (Splint Or Cast),TREATMENT
+604,Surgical Intervention (In Complex Or Recurrent Cases),TREATMENT
+605,Medications (Pain Relievers,TREATMENT
+606,Posture Improvement,TREATMENT
+607,Spinal Injections,TREATMENT
+608,Surgery (In Severe Cases Or If Conservative Treatments Fail),TREATMENT
+609,Symptomatic Relief (Pain Relievers,TREATMENT
+610,Throat Lozenges,TREATMENT
+611,Mouth Rinses),TREATMENT
+612,Fluids,TREATMENT
+613,Maintaining Good Oral Hygiene,TREATMENT
+614,Avoiding Spicy Or Acidic Foods,TREATMENT
+615,Seek Immediate Medical Assistance Or Contact A Poison Control Center,TREATMENT
+616,Activated Charcoal (If Indicated),TREATMENT
+617,Supportive Care (Maintaining Vital Signs,TREATMENT
+618,Airway Management),TREATMENT
+619,Gastric Lavage (In Certain Cases),TREATMENT
+620,Administration Of Antidotes (If Available And Appropriate),TREATMENT
+621,Monitoring And Management Of Complications,TREATMENT
+622,Cleaning And Irrigation Of The Wound,TREATMENT
+623,Antibiotic Therapy (Oral Or Intravenous),TREATMENT
+624,Wound Dressings,TREATMENT
+625,Wound Debridement (If Necessary),TREATMENT
+626,Tetanus Prophylaxis,TREATMENT
+627,Increasing Protein Intake Through Diet (Lean Meats,TREATMENT
+628,Fish,TREATMENT
+629,Dairy,TREATMENT
+630,Legumes,TREATMENT
+631,Nuts),TREATMENT
+632,Protein Supplements,TREATMENT
+633,Malabsorption),TREATMENT
+634,Identifying And Treating Underlying Causes (E.G.,TREATMENT
+635,Metabolic Imbalances),TREATMENT
+636,Medications (Anti-Seizure Drugs,TREATMENT
+637,Tranquilizers),TREATMENT
+638,Nonsteroidal Anti-Inflammatory Drugs (Nsaids),TREATMENT
+639,Orthotic Devices,TREATMENT
+640,Stretching Exercises,TREATMENT
+641,Shoe Modifications,TREATMENT
+642,Corticosteroid Injections,TREATMENT
+643,Surgical Removal (In Severe Cases),TREATMENT
+644,Desmopressin (Ddavp) Medication,TREATMENT
+645,Replacement Therapy With Von Willebrand Factor (Vwf) Concentrate Or Cryoprecipitate,TREATMENT
+646,Oral Contraceptives (For Women With Heavy Menstrual Bleeding),TREATMENT
+647,Avoiding Certain Medications,TREATMENT
+648,Dental Care Precautions,TREATMENT
+649,Regular Medical Follow-Up,TREATMENT
+650,Medications (Such As Beta-Blockers,TREATMENT
+651,Calcium Channel Blockers),TREATMENT
+652,Pacemaker Implantation (In Severe Cases Or Symptomatic Heart Block),TREATMENT
+653,Underlying Condition Management,TREATMENT
+654,Polypectomy (Removal Of Polyp During Colonoscopy),TREATMENT
+655,Surveillance Colonoscopy (Regular Monitoring For Recurrence Or New Polyps),TREATMENT
+656,Lifestyle Modifications (Healthy Diet,TREATMENT
+657,Follow-Up Based On Pathology Findings,TREATMENT
+658,Surgical Repair (Hypospadias Repair Surgery),TREATMENT
+659,Counseling And Support For The Child And Family,TREATMENT
+660,Dietary Changes (Consuming Magnesium-Rich Foods),TREATMENT
+661,Oral Magnesium Supplements,TREATMENT
+662,Intravenous Magnesium Therapy (In Severe Cases),TREATMENT
+663,Medical Supervision And Monitoring,TREATMENT
+664,Fertility Testing And Evaluation (Hormone Tests,TREATMENT
+665,Imaging,TREATMENT
+666,Genetic Screening),TREATMENT
+667,Fertility Treatments (Assisted Reproductive Technologies,TREATMENT
+668,Fertility Medications),TREATMENT
+669,Nonsteroidal Anti-Inflammatory Drugs (Nsaids) To Reduce Inflammation And Pain,TREATMENT
+670,Colchicine (For Recurrent Or Persistent Pericarditis),TREATMENT
+671,Corticosteroids (In Severe Cases Or When Nsaids Are Ineffective),TREATMENT
+672,Antibiotics (If Bacterial Infection Is Present),TREATMENT
+673,Lifestyle Modifications (Rest,TREATMENT
+674,Avoiding Strenuous Activity),TREATMENT
+675,Treating Underlying Causes (If Identified),TREATMENT
+676,Potential Pericardiocentesis (Fluid Drainage),TREATMENT
+677,Parent Training Programs,TREATMENT
+678,Medication (Such As Stimulants Or Non-Stimulants),TREATMENT
+679,Individualized Education Plans (Ieps) For Academic Support,TREATMENT
+680,Accommodations And Modifications In School,TREATMENT
+681,Psychoeducation,TREATMENT
+682,High-Dose Corticosteroids,TREATMENT
+683,Plasma Exchange (To Remove Antibodies From The Blood),TREATMENT
+684,Immunosuppressive Therapy (Such As Azathioprine Or Rituximab),TREATMENT
+685,Supportive Care To Manage Symptoms,TREATMENT
+686,Physical Therapy Or Rehabilitation For Functional Recovery,TREATMENT
+687,Medications (Such As Diuretics,TREATMENT
+688,Or Calcium Channel Blockers),TREATMENT
+689,Surgical Interventions (Such As Balloon Valvuloplasty Or Valve Replacement),TREATMENT
+690,Heart-Healthy Diet,TREATMENT
+691,Regular Follow-Up With A Cardiologist,TREATMENT
+692,Local Heat Or Ice Application,TREATMENT
+693,Avoiding Activities That Worsen Symptoms,TREATMENT
+694,Supportive Measures (Such As Wearing Loose Clothing Or Using Supportive Pillows),TREATMENT
+695,Physical Therapy (To Improve Posture And Strengthen Muscles),TREATMENT
+696,Corticosteroid Injections (In Some Cases),TREATMENT
+697,Treatment Depends On The Underlying Cause And Specific Cranial Nerve Affected. It May Include Medications (Such As Corticosteroids Or Antiviral Drugs),TREATMENT
+698,Eye Exercises,TREATMENT
+699,Surgery (In Some Cases),TREATMENT
+700,And Management Of Any Underlying Conditions.,TREATMENT
+701,Psychotherapy (Such As Cognitive-Behavioral Therapy Or Psychodynamic Therapy),TREATMENT
+702,Physical Therapy Or Rehabilitation (To Improve Physical Function And Reduce Disability),TREATMENT
+703,Addressing Underlying Stressors Or Psychological Factors,TREATMENT
+704,Supportive Care And Reassurance,TREATMENT
+705,Potentially Medications (Such As Antidepressants Or Anti-Anxiety Medications),TREATMENT
+706,Physical Therapy (Including Exercises,TREATMENT
+707,Stretching,TREATMENT
+708,And Mirror Therapy),TREATMENT
+709,Pain Management Techniques (Such As Medications,TREATMENT
+710,Or Spinal Cord Stimulation),TREATMENT
+711,Psychological Support (Such As Cognitive-Behavioral Therapy Or Counseling),TREATMENT
+712,Patient Education And Self-Management Techniques,TREATMENT
+713,Surgical Interventions (Such As Stapedectomy Or Stapedotomy To Replace The Affected Bone In The Middle Ear),TREATMENT
+714,Sodium Fluoride Therapy (To Slow Down The Progression Of The Condition),TREATMENT
+715,Communication Strategies And Support (Such As Lip-Reading Or Sign Language),TREATMENT
+716,Regular Hearing Assessments,TREATMENT
+717,Hormone Replacement Therapy With Synthetic Thyroid Hormone (Levothyroxine),TREATMENT
+718,Regular Monitoring Of Thyroid Hormone Levels And Adjustment Of Medication Dosage,TREATMENT
+719,Lifestyle Modifications (Such As Healthy Diet And Regular Exercise),TREATMENT
+720,Management Of Associated Symptoms (Such As Cholesterol-Lowering Medications Or Antidepressants),TREATMENT
+721,Education And Support For Long-Term Management,TREATMENT
+722,Cognitive-Behavioral Therapy For Insomnia (Cbt-I),TREATMENT
+723,Sleep Hygiene Practices (Such As Maintaining A Regular Sleep Schedule,TREATMENT
+724,Creating A Comfortable Sleep Environment),TREATMENT
+725,Stimulus Control Techniques (Such As Limiting Bed Activities To Sleep Only),TREATMENT
+726,Sleep Restriction Therapy,TREATMENT
+727,Medications For Insomnia (Such As Sedative-Hypnotics,TREATMENT
+728,Melatonin Agonists),TREATMENT
+729,Over-The-Counter Or Prescription Medications Specifically Designed To Kill Lice (Such As Pediculicides),TREATMENT
+730,Manual Removal Of Lice And Nits Using A Fine-Toothed Comb,TREATMENT
+731,Washing And Drying Of Infested Clothing And Bedding At High Temperatures,TREATMENT
+732,Vacuuming Of Upholstery And Household Surfaces,TREATMENT
+733,Disinfection Of Personal Items That Cannot Be Washed Or Dried,TREATMENT
+734,Avoiding Direct Head-To-Head Contact With Infested Individuals,TREATMENT
+735,Education And Prevention Strategies,TREATMENT
+736,Vitamin B12 Supplementation (Such As Oral Supplements Or Injections),TREATMENT
+737,Dietary Changes To Include B12-Rich Foods (Such As Meat,TREATMENT
+738,Eggs,TREATMENT
+739,And Dairy Products),TREATMENT
+740,Identification And Management Of Underlying Causes (Such As Pernicious Anemia Or Malabsorption Disorders),TREATMENT
+741,Management Of Associated Symptoms Or Complications (Such As Nerve Pain Or Balance Problems),TREATMENT
+742,Regular Monitoring Of B12 Levels And Treatment Adjustment,TREATMENT
+743,Topical Medications (Such As Lidocaine Or Estrogen Creams),TREATMENT
+744,Physical Therapy (Including Pelvic Floor Muscle Relaxation Exercises),TREATMENT
+745,Cognitive-Behavioral Therapy (Cbt),TREATMENT
+746,Medications (Such As Tricyclic Antidepressants Or Anticonvulsants),TREATMENT
+747,Vulvar Care And Hygiene Practices,TREATMENT
+748,Alternative Therapies (Such As Acupuncture Or Herbal Remedies),TREATMENT
+749,Pain Management (Such As Nonsteroidal Anti-Inflammatory Drugs [Nsaids],TREATMENT
+750,Hormonal Contraceptives,TREATMENT
+751,Or Progestins),TREATMENT
+752,Hormone Therapy (Such As Gonadotropin-Releasing Hormone [Gnrh] Agonists Or Oral Contraceptives),TREATMENT
+753,Surgical Interventions (Such As Laparoscopic Excision Or Hysterectomy),TREATMENT
+754,Fertility Treatments (If Pregnancy Is Desired),TREATMENT
+755,Stress Management),TREATMENT
+756,Complementary Therapies (Such As Acupuncture Or Dietary Changes),TREATMENT
+757,Treatment Depends On The Type And Severity Of Vasculitis. It May Include Corticosteroids,TREATMENT
+758,Immunosuppressive Medications (Such As Cyclophosphamide Or Azathioprine),TREATMENT
+759,Biologic Therapies (Such As Rituximab),TREATMENT
+760,Disease-Specific Treatments (Such As Plasmapheresis For Certain Types),TREATMENT
+761,Supportive Care To Manage Symptoms (Such As Pain Relievers Or Blood Pressure Medications),TREATMENT
+762,Monitoring And Management Of Associated Complications (Such As Organ Damage Or Infections),TREATMENT
+763,Physical And Cognitive Rest,TREATMENT
+764,Gradual Return To Normal Activities,TREATMENT
+765,Symptom Management (Such As Pain Relievers Or Anti-Nausea Medication),TREATMENT
+766,Monitoring For Complications (Such As Changes In Neurological Function),TREATMENT
+767,Cognitive Rehabilitation (If Persistent Cognitive Problems),TREATMENT
+768,Management Of Associated Symptoms (Such As Sleep Disturbances Or Mood Changes),TREATMENT
+769,Education And Support For Recovery,TREATMENT
+770,Avoiding Further Head Injuries,TREATMENT
+771,Regular Monitoring And Follow-Up,TREATMENT
+772,Identification And Elimination Of Potential Irritants (Such As Tobacco Or Alcohol),TREATMENT
+773,Improving Oral Hygiene Practices,TREATMENT
+774,Medication (Such As Topical Retinoids Or Antifungal Agents),TREATMENT
+775,Surgical Removal (In Some Cases),TREATMENT
+776,Cryotherapy (Freezing The Patches),TREATMENT
+777,Laser Therapy,TREATMENT
+778,Lifestyle Modifications (Such As Healthy Diet),TREATMENT
+779,Regular Dental Check-Ups,TREATMENT
+780,Education And Support,TREATMENT
+781,Management Of Underlying Conditions (Such As Diabetes Or High Blood Pressure),TREATMENT
+782,Lifestyle Modifications (Such As Healthy Diet,TREATMENT
+783,Medications (Such As Ace Inhibitors Or Diuretics),TREATMENT
+784,Dialysis (In Advanced Stages),TREATMENT
+785,Kidney Transplant (In End-Stage Kidney Disease),TREATMENT
+786,Management Of Associated Complications (Such As Anemia Or Bone Disease),TREATMENT
+787,Regular Monitoring And Follow-Up With A Nephrologist,TREATMENT
+788,Education And Support For Self-Care,TREATMENT
+789,Bladder Training,TREATMENT
+790,Antiviral Medications,TREATMENT
+791,Eye Drops,TREATMENT
+792,Medical Intervention (Aspiration,TREATMENT
+793,Surgery),TREATMENT
+794,Medications (Corticosteroids,TREATMENT
+795,Immunosuppressants),TREATMENT
+796,Symptom Management,TREATMENT
+797,Dialysis,TREATMENT
+798,Medications (Mood Stabilizers,TREATMENT
+799,Antipsychotics),TREATMENT
+800,Treatment Depends On The Type And Extent Of Organ Damage,TREATMENT
+801,Immunoglobulin Therapy,TREATMENT
+802,Medications (Antacids,TREATMENT
+803,Proton Pump Inhibitors),TREATMENT
+804,Vitrectomy (In Severe Cases),TREATMENT
+805,Medications (Immunosuppressants),TREATMENT
+806,Medications (Acetylcholinesterase Inhibitors,TREATMENT
+807,Thymectomy (In Some Cases),TREATMENT
+808,Consuming Glucose Or Sugar-Containing Foods,TREATMENT
+809,Adjusting Medication Or Insulin Dosage,TREATMENT
+810,Evaluation To Determine Underlying Cause,TREATMENT
+811,Hormone Therapy,TREATMENT
+812,Reduction (Realigning The Bones),TREATMENT
+813,Rehab,TREATMENT
+814,Fresh Air,TREATMENT
+815,Breathing Exercises,TREATMENT
+816,Physiotherapy,TREATMENT
+817,Refractive Surgery,TREATMENT
+818,Immunosuppressants,TREATMENT
+819,Traction Therapy,TREATMENT
+820,Adjusting Medication Dosage,TREATMENT
+821,Switching To Alternative Medications,TREATMENT
+822,Medications (Diuretics,TREATMENT
+823,Anti-Vertigo Drugs),TREATMENT
+824,Stool Softeners,TREATMENT
+825,Fiber Supplements,TREATMENT
+826,Topical Ointments,TREATMENT
+827,Surgical Procedures (In Severe Cases),TREATMENT
+828,Surgical Intervention (In Some Cases),TREATMENT
+829,Surgery To Remove The Affected Part Of The Colon (Pull-Through Procedure),TREATMENT
+830,Low-Dose Corticosteroids,TREATMENT
+831,Compression Therapy,TREATMENT
+832,Lymphatic Drainage Techniques,TREATMENT
+833,Surgery (In Severe Cases),TREATMENT
+834,Bronchodilators (Inhaled Medications),TREATMENT
+835,Supplemental Oxygen (If Needed),TREATMENT
+836,Medications (Eye Drops),TREATMENT
+837,Manual Reduction,TREATMENT
+838,Treating Underlying Cause,TREATMENT
+839,Pelvic Floor Exercises,TREATMENT
+840,Behavioral Techniques,TREATMENT
+841,Medication (If Needed),TREATMENT
+842,Surgical Drainage (In Some Cases),TREATMENT
+843,Medications (Anti-Androgens,TREATMENT
+844,Oral Contraceptives),TREATMENT
+845,Hair Removal Methods,TREATMENT
+846,Ureteral Stent,TREATMENT
+847,High-Fiber Diet,TREATMENT
+848,Antibiotics),TREATMENT
+849,Ice Packs,TREATMENT
+850,Medications (To Manage Symptoms),TREATMENT
+851,Prevention Of Mosquito Bites,TREATMENT
+852,Topical Corticosteroids,TREATMENT
+853,Moisturizers,TREATMENT
+854,Avoiding Sun Exposure,TREATMENT
+855,Erythropoiesis-Stimulating Agents (Esa),TREATMENT
+856,Blood Transfusions (In Severe Cases),TREATMENT
+857,Steroid Eye Drops,TREATMENT
+858,Artificial Tears,TREATMENT
+859,Eye Lubricants,TREATMENT
+860,Antifungal Creams,TREATMENT
+861,Powders,TREATMENT
+862,Or Oral Medications,TREATMENT
+863,Proper Hygiene And Skin Care,TREATMENT
+864,Immediate Treatment Of Hypoglycemia,TREATMENT
+865,Medical Assistance,TREATMENT
+866,Adjusting Insulin Dosage And Regimen,TREATMENT
+867,Fluid Restriction,TREATMENT
+868,Medications To Suppress Adh (Vasopressin) Secretion,TREATMENT
+869,Addressing Electrolyte Imbalance,TREATMENT
+870,Hormonal Contraceptives),TREATMENT
+871,Hospitalization (In Severe Cases),TREATMENT
+872,R.I.C.E. (Rest,TREATMENT
+873,Elevation),TREATMENT
+874,Treating Underlying Liver Disease,TREATMENT
+875,Medications To Manage Symptoms,TREATMENT
+876,Antiparasitic Medications,TREATMENT
+877,Treatment Of Complications,TREATMENT
+878,Vector Control Measures (In Endemic Areas),TREATMENT
+879,Surgical Decompression,TREATMENT
+880,Draining Of Syrinx (Cyst),TREATMENT
+881,Pain Management Techniques,TREATMENT
+882,Medications (Immunosuppressants,TREATMENT
+883,Antifibrotic Drugs),TREATMENT
+884,Lung Transplantation,TREATMENT
+885,Surgical Repair Or Replacement Of The Valve (In Severe Cases),TREATMENT
+886,Medications (Levodopa,TREATMENT
+887,Dopamine Agonists),TREATMENT
+888,Deep Brain Stimulation,TREATMENT
+889,Medications (Nonsteroidal Anti-Inflammatory Drugs,TREATMENT
+890,Colchicine),TREATMENT
+891,Antibiotics (If Bacterial Infection),TREATMENT
+892,Observation (In Some Cases),TREATMENT
+893,Blood Transfusions,TREATMENT
+894,Bone Marrow Transplantation (In Some Cases),TREATMENT
+895,Immobilization (Sling,TREATMENT
+896,Brace),TREATMENT
+897,Surgical Intervention (In Severe Cases),TREATMENT
+898,Medications To Manage Complications,TREATMENT
+899,Dialysis (In Severe Cases),TREATMENT
+900,Medications (Progesterone),TREATMENT
+901,Monitoring,TREATMENT
+902,Avoiding Activities That May Stress The Pregnancy,TREATMENT
+903,Surgical Drainage Or Removal Of The Abscess,TREATMENT
+904,Oral Hygiene Practices (Brushing,TREATMENT
+905,Flossing),TREATMENT
+906,Professional Dental Cleanings,TREATMENT
+907,Surgical Interventions,TREATMENT
+908,Wound Care (Cleaning,TREATMENT
+909,Dressing Changes),TREATMENT
+910,Antibiotics (If Infection Is Present),TREATMENT
+911,Endoscopy,TREATMENT
+912,Medications To Stop Bleeding,TREATMENT
+913,Topical Antifungal Creams Or Ointments,TREATMENT
+914,Medicated Shampoos,TREATMENT
+915,Corticosteroid Creams,TREATMENT
+916,Behavioral Therapies,TREATMENT
+917,Medication-Assisted Treatment (If Applicable),TREATMENT
+918,Botulinum Toxin Injections (In Severe Cases),TREATMENT
+919,Activated Charcoal Administration,TREATMENT
+920,Specific Antidotes,TREATMENT
+921,Over-The-Counter Pain Relievers,TREATMENT
+922,Ensuring Hydration,TREATMENT
+923,Monitoring Vital Signs,TREATMENT
+924,Prevention Of Complications,TREATMENT
+925,Vitamin C Supplementation,TREATMENT
+926,Dietary Changes,TREATMENT
+927,Oral Hygiene Maintenance,TREATMENT
+928,Stimulant Medications,TREATMENT
+929,Scheduled Naps,TREATMENT
+930,Avoidance Of Allergenic Food,TREATMENT
+931,Antihistamines,TREATMENT
+932,Epinephrine (In Severe Cases),TREATMENT
+933,Medications (Antibiotics,TREATMENT
+934,Antivirals),TREATMENT
+935,Vestibular Rehabilitation Therapy,TREATMENT
+936,Therapy (Cognitive-Behavioral Therapy,TREATMENT
+937,Psychotherapy),TREATMENT
+938,Medications (Antidepressants,TREATMENT
+939,Anti-Anxiety Drugs),TREATMENT
+940,Medication (In Some Cases),TREATMENT
+941,Tear Duct Probing,TREATMENT
+942,Dilation,TREATMENT
+943,Surgical Correction,TREATMENT
+944,Surgical Drainage (In Severe Cases),TREATMENT
+945,Stem Cell Transplant,TREATMENT
+946,Eye Protection,TREATMENT
+947,Allergen Avoidance,TREATMENT
+948,Antihistamine Eye Drops,TREATMENT
+949,Cold Compresses,TREATMENT
+950,Lubricating Eye Drops,TREATMENT
+951,Discontinuation Of The Offending Drug,TREATMENT
+952,Corticosteroids (In Severe Cases),TREATMENT
+953,Surgery (Adrenalectomy),TREATMENT
+954,Hormone Replacement Therapy,TREATMENT
+955,Refractive Surgery (Lasik),TREATMENT
+956,Orthokeratology (For Some Cases),TREATMENT
+957,Medications (Thyroid Hormone Replacement,TREATMENT
+958,Antithyroid Drugs),TREATMENT
+959,Radioactive Iodine Therapy,TREATMENT
+960,Symptomatic Relief,TREATMENT
+961,Antibiotics (To Treat Streptococcal Infections),TREATMENT
+962,Anti-Inflammatory Medications,TREATMENT
+963,Medications For Heart Complications,TREATMENT
+964,Calcium And Vitamin D Supplements,TREATMENT
+965,Treating Underlying Causes,TREATMENT
+966,Intravenous Calcium (In Severe Cases),TREATMENT
+967,Vision Aids,TREATMENT
+968,Medications (Injections Into The Eye),TREATMENT
+969,Photodynamic Therapy,TREATMENT
+970,Antiviral Medications (If Applicable),TREATMENT
+971,Antiviral Medications (Topical Or Oral),TREATMENT
+972,Antiviral Creams,TREATMENT
+973,Self-Care Measures,TREATMENT
+974,Monitoring (In Most Cases),TREATMENT
+975,Medications (Beta-Blockers,TREATMENT
+976,Antiarrhythmics),TREATMENT
+977,Antibiotics (Such As Azithromycin Or Ceftriaxone),TREATMENT
+978,Good Hygiene,TREATMENT
+979,Surgery (Orchiectomy),TREATMENT
+980,Surveillance (For Some Cases),TREATMENT
+981,Shunt Placement (To Divert Excess Cerebrospinal Fluid),TREATMENT
+982,Endoscopic Third Ventriculostomy,TREATMENT
+983,Surgery (Lumpectomy Or Mastectomy),TREATMENT
+984,Treating Underlying Malignancy,TREATMENT
+985,Medications (Erythropoiesis-Stimulating Agents,TREATMENT
+986,Iron Supplements),TREATMENT
+987,Vasoconstrictors),TREATMENT
+988,Endoscopic Therapies,TREATMENT
+989,Band Ligation,TREATMENT
+990,Transjugular Intrahepatic Portosystemic Shunt (Tips),TREATMENT
+991,Surgery (Hysterectomy),TREATMENT
+992,Medications (Mucus-Thinning Drugs,TREATMENT
+993,Bronchodilators),TREATMENT
+994,Chest Physical Therapy,TREATMENT
+995,Enzyme Supplements,TREATMENT
+996,Lung Transplant (In Severe Cases),TREATMENT
+997,Keeping The Affected Area Clean And Dry,TREATMENT
+998,Applying Topical Antifungal Or Antibacterial Creams,TREATMENT
+999,Using Barrier Creams,TREATMENT
+1000,Surgical Removal Of The Adenoma (Parathyroidectomy),TREATMENT
+1001,Medications To Manage Calcium Levels,TREATMENT
+1002,Hormone Replacement Therapy With Glucocorticoid Medications,TREATMENT
+1003,Self-Care Measures (Rest,TREATMENT
+1004,Applying Heat Or Cold,TREATMENT
+1005,Jaw Exercises),TREATMENT
+1006,Oral Splints,TREATMENT
+1007,Medications To Remove Copper From The Body (Chelators),TREATMENT
+1008,Liver Transplant (In Severe Cases),TREATMENT
+1009,Bladder Training Exercises,TREATMENT
+1010,Surgical Correction (In Some Cases),TREATMENT
+1011,Vitamin A Supplementation,TREATMENT
+1012,Dietary Changes To Include Foods Rich In Vitamin A,TREATMENT
+1013,Antibiotics (Dual Therapy With Ceftriaxone And Azithromycin),TREATMENT
+1014,Safe Sexual Practices,TREATMENT
+1015,Partner Notification,TREATMENT
+1016,Immobilization (Splinting Or Bracing),TREATMENT
+1017,Removal Or Avoidance Of The Toxic Substance,TREATMENT
+1018,Management Of Symptoms,TREATMENT
+1019,Observation (If Asymptomatic),TREATMENT
+1020,Sitz Baths,TREATMENT
+1021,Surgical Removal (If Necessary),TREATMENT
+1022,Knee Braces Or Supports,TREATMENT
+1023,Sunglasses For Uv Protection,TREATMENT
+1024,Treatment Of Underlying Cause Or Associated Condition,TREATMENT
+1025,Immunosuppressive Therapy (In Some Cases),TREATMENT
+1026,Treatment Depends On The Specific Pituitary Disorder And May Involve Medications,TREATMENT
+1027,Medication To Facilitate Stone Passage,TREATMENT
+1028,Minimally Invasive Procedures Or Surgery,TREATMENT
+1029,Speech And Language Therapy,TREATMENT
+1030,Medications For Associated Symptoms,TREATMENT
+1031,Antibiotics (Azithromycin,TREATMENT
+1032,Doxycycline),TREATMENT
+1033,Eye Drops (To Reduce Intraocular Pressure),TREATMENT
+1034,Oral Medications,TREATMENT
+1035,Surgery (Trabeculectomy,TREATMENT
+1036,Implantable Devices),TREATMENT
+1037,Regular Eye Exams,TREATMENT
+1038,Surgical Intervention (Pneumatic Retinopexy,TREATMENT
+1039,Scleral Buckle,TREATMENT
+1040,Vitrectomy),TREATMENT
+1041,Gas Or Silicone Oil Injection,TREATMENT
+1042,Positioning,TREATMENT
+1043,Bone Marrow-Stimulating Medications,TREATMENT
+1044,Immunosuppressive Therapy,TREATMENT
+1045,Stem Cell Transplant (In Severe Cases),TREATMENT
+1046,Double Voiding,TREATMENT
+1047,Catheterization,TREATMENT
+1048,Medications (Alpha-Blockers,TREATMENT
+1049,Anticholinergics),TREATMENT
+1050,Immediate Medical Attention (Post-Exposure Prophylaxis),TREATMENT
+1051,Administration Of Rabies Vaccine And Immunoglobulin,TREATMENT
+1052,Monitoring And Management Of Symptoms,TREATMENT
+1053,Corticosteroids),TREATMENT
+1054,Splenectomy (In Some Cases),TREATMENT
+1055,Folic Acid Or Iron Supplementation,TREATMENT
+1056,Ice Or Cold Therapy,TREATMENT
+1057,Elbow Brace Or Strap,TREATMENT
+1058,Corticosteroid Injections (In Severe Cases),TREATMENT
+1059,Ergonomic Modifications,TREATMENT
+1060,Antibiotics (Usually Penicillin),TREATMENT
+1061,Regular Follow-Up And Testing,TREATMENT
+1062,Blood Sugar Control,TREATMENT
+1063,Medications To Protect The Kidneys (Such As Ace Inhibitors Or Arbs),TREATMENT
+1064,Quitting Smoking),TREATMENT
+1065,Management Of Underlying Diabetes,TREATMENT
+1066,Treatment Of Complications (Such As Dialysis Or Kidney Transplantation In Advanced Stages),TREATMENT
+1067,Treatment Depends On The Underlying Cause (Such As Allergies,TREATMENT
+1068,Sinusitis,TREATMENT
+1069,Or Nasal Polyps),TREATMENT
+1070,And May Include Medications (Such As Decongestants,TREATMENT
+1071,Nasal Sprays),TREATMENT
+1072,Saline Nasal Irrigation,TREATMENT
+1073,Steam Inhalation,TREATMENT
+1074,Allergy Management,TREATMENT
+1075,Gradual Tapering Of The Drug Under Medical Supervision,TREATMENT
+1076,Medications To Manage Withdrawal Symptoms (Such As Benzodiazepines,TREATMENT
+1077,Clonidine,TREATMENT
+1078,Or Buprenorphine),TREATMENT
+1079,Rehabilitation Programs,TREATMENT
+1080,Dental Fillings,TREATMENT
+1081,Crowns,TREATMENT
+1082,Root Canal Treatment,TREATMENT
+1083,Tooth Extraction (In Severe Cases),TREATMENT
+1084,Oral Hygiene Practices (Brushing And Flossing),TREATMENT
+1085,Fluoride Treatments,TREATMENT
+1086,Dietary Modifications (Reducing Sugary And Acidic Foods And Drinks),TREATMENT
+1087,Dental Sealants (For Prevention),TREATMENT
+1088,Education On Proper Oral Care,TREATMENT
+1089,Medications To Lower Cholesterol Levels (Such As Statins),TREATMENT
+1090,Regular Monitoring Of Cholesterol Levels,TREATMENT
+1091,Potential Additional Treatments (Such As Bile Acid Sequestrants Or Pcsk9 Inhibitors),TREATMENT
+1092,Immobilization (Splint,TREATMENT
+1093,Cast,TREATMENT
+1094,Or Brace),TREATMENT
+1095,Exercises To Restore Mobility And Strength,TREATMENT
+1096,Potential Surgical Intervention (In Severe Cases Or If Displacement Is Present),TREATMENT
+1097,Treatment Depends On The Underlying Cause And May Include Medications To Manage Blood Pressure And Symptoms,TREATMENT
+1098,Dietary Modifications (Restricting Salt,TREATMENT
+1099,Protein,TREATMENT
+1100,And Potassium),TREATMENT
+1101,Dialysis (Hemodialysis Or Peritoneal Dialysis) Or Kidney Transplantation (In End-Stage Kidney Failure),TREATMENT
+1102,Management Of Fluid And Electrolyte Balance,TREATMENT
+1103,Lifestyle Modifications (Exercise,TREATMENT
+1104,Quitting Smoking,TREATMENT
+1105,Healthy Diet),TREATMENT
+1106,Immobilization (Cervical Collar,TREATMENT
+1107,Potential Surgical Intervention (In Severe Cases),TREATMENT
+1108,Stretching And Relaxation Exercises,TREATMENT
+1109,Muscle Relaxants,TREATMENT
+1110,Replacement Therapy With Clotting Factor Concentrates,TREATMENT
+1111,Medications To Control Bleeding,TREATMENT
+1112,Joint Protection Measures,TREATMENT
+1113,Genetic Counseling And Testing For Family Members,TREATMENT
+1114,Insulin Therapy To Regulate Blood Sugar Levels,TREATMENT
+1115,Intravenous Fluids To Correct Dehydration,TREATMENT
+1116,Electrolyte Replacement,TREATMENT
+1117,Correction Of Underlying Causes (E.G.,TREATMENT
+1118,Diabetes Management),TREATMENT
+1119,Antibiotics To Treat Infection,TREATMENT
+1120,Drainage Of The Abscess (Needle Aspiration Or Incision And Drainage),TREATMENT
+1121,Warm Saltwater Gargles,TREATMENT
+1122,Surgical Removal Of The Tonsils (In Chronic Or Recurrent Cases),TREATMENT
+1123,Dietary Modifications (Small,TREATMENT
+1124,Frequent Meals; Low-Fiber,TREATMENT
+1125,Low-Fat Diet),TREATMENT
+1126,Medication To Promote Gastric Emptying,TREATMENT
+1127,Managing Underlying Cause If Possible,TREATMENT
+1128,Supportive Care (Oxygen Therapy,TREATMENT
+1129,Fluid Resuscitation),TREATMENT
+1130,Managing Symptoms (Pain Medication,TREATMENT
+1131,Anticoagulants),TREATMENT
+1132,Treatment Of Underlying Cause If Possible,TREATMENT
+1133,Phlebotomy (Removal Of Blood),TREATMENT
+1134,Medication (Hydroxyurea,TREATMENT
+1135,Interferon),TREATMENT
+1136,Low-Dose Aspirin,TREATMENT
+1137,Managing Complications (Blood Thinners,TREATMENT
+1138,Medication For Itching),TREATMENT
+1139,Platelet Transfusion (If Severe),TREATMENT
+1140,Medication (Corticosteroids,TREATMENT
+1141,Avoiding Medications That Can Worsen Platelet Counts,TREATMENT
+1142,Treatment Depends On The Specific Type And Stage Of Cancer,TREATMENT
+1143,And May Include Surgery,TREATMENT
+1144,Calcium And Vitamin D Supplementation,TREATMENT
+1145,Management Of Complications,TREATMENT
+1146,Treatment Depends On The Underlying Cause (Medication,TREATMENT
+1147,Behavioral Therapies (Bladder Training,TREATMENT
+1148,Pelvic Floor Exercises),TREATMENT
+1149,Medications (Anticholinergics,TREATMENT
+1150,Beta-3 Agonists),TREATMENT
+1151,Medical Devices,TREATMENT
+1152,Addressing Associated Medical Issues,TREATMENT
+1153,Early Intervention Programs,TREATMENT
+1154,Medications For Symptom Management,TREATMENT
+1155,Gene Therapies (In Some Cases),TREATMENT
+1156,Pain Management (Over-The-Counter Pain Relievers,TREATMENT
+1157,Heat Therapy),TREATMENT
+1158,Hormonal Birth Control (If Severe Or Recurrent),TREATMENT
+1159,Eye Patching,TREATMENT
+1160,Antibiotic Ointments (If Infected),TREATMENT
+1161,Avoiding Further Eye Irritation,TREATMENT
+1162,Treating The Underlying Chronic Disease,TREATMENT
+1163,Addressing Nutritional Deficiencies,TREATMENT
+1164,Psychotherapy (Cognitive-Behavioral Therapy,TREATMENT
+1165,Interpersonal Therapy),TREATMENT
+1166,Antibiotics (Such As Penicillin Or Erythromycin),TREATMENT
+1167,Medications (Antihypertensives),TREATMENT
+1168,Lifestyle Changes (Healthy Diet,TREATMENT
+1169,Treatment Of Underlying Conditions,TREATMENT
+1170,Medical Detoxification,TREATMENT
+1171,Lifestyle Changes (Diet,TREATMENT
+1172,Fertility Treatments (If Needed),TREATMENT
+1173,Antiviral Medications (If Caused By A Viral Infection),TREATMENT
+1174,Good Eyelid Hygiene,TREATMENT
+1175,Topical Antifungal Or Antibacterial Creams,TREATMENT
+1176,Corticosteroid Creams (If Severe),TREATMENT
+1177,Removal Of The Foreign Body,TREATMENT
+1178,Evaluation For Any Complications,TREATMENT
+1179,High-Dose Intravenous Corticosteroids,TREATMENT
+1180,Visual Rehabilitation,TREATMENT
+1181,Dietary Modifications (Specific To The Underlying Cause),TREATMENT
+1182,Supplementation Of Deficient Nutrients,TREATMENT
+1183,Medications (To Manage Symptoms Or Underlying Condition),TREATMENT
+1184,Removal Of Lead Source,TREATMENT
+1185,Chelation Therapy (In Severe Cases),TREATMENT
+1186,Addressing Complications (Such As Anemia),TREATMENT
+1187,Topical Treatments (Salicylic Acid,TREATMENT
+1188,Cryotherapy),TREATMENT
+1189,Immune Therapy (For Persistent Or Recurrent Cases),TREATMENT
+1190,Antiperspirants,TREATMENT
+1191,Beta Blockers),TREATMENT
+1192,Iontophoresis,TREATMENT
+1193,Surgical Interventions (Sympathectomy,TREATMENT
+1194,Sweat Gland Removal),TREATMENT
+1195,Emergency Medical Attention,TREATMENT
+1196,Medication (Clot-Busting Drugs,TREATMENT
+1197,Rehabilitation (Physical Therapy,TREATMENT
+1198,Speech Therapy),TREATMENT
+1199,Lifestyle Modifications (Diet,TREATMENT
+1200,Addressing Underlying Risk Factors,TREATMENT
+1201,Antibiotics (For Infection),TREATMENT
+1202,Incision And Drainage,TREATMENT
+1203,Surgical Removal Or Excision,TREATMENT
+1204,Lifestyle Modifications To Prevent Recurrence,TREATMENT
+1205,Surgery (To Repair Or Reconstruct Affected Tissues),TREATMENT
+1206,Occupational Therapy),TREATMENT
+1207,Ventriculoperitoneal Shunt Placement,TREATMENT
+1208,Medication Management For Symptoms,TREATMENT
+1209,Topical Medications (Minoxidil),TREATMENT
+1210,Oral Medications (Finasteride),TREATMENT
+1211,Hair Transplant Surgery,TREATMENT
+1212,Wigs Or Hairpieces,TREATMENT
+1213,Thyroid Hormone Replacement (Levothyroxine),TREATMENT
+1214,Supportive Footwear,TREATMENT
+1215,Orthotic Inserts,TREATMENT
+1216,Lifestyle Changes (Weight Loss,TREATMENT
+1217,Management Of Underlying Conditions,TREATMENT
+1218,Medication As Needed,TREATMENT
+1219,Rice Method (Rest,TREATMENT
+1220,Joint Aspiration Or Drainage (In Severe Cases),TREATMENT
+1221,Pessary Use,TREATMENT
+1222,Surgical Repair (In Severe Cases),TREATMENT
+1223,Immobilization (Cast Or Splint),TREATMENT
+1224,Surgery (In Complex Fractures),TREATMENT
+1225,Clotting Factor Replacement Therapy,TREATMENT
+1226,Medications To Stimulate Clotting,TREATMENT
+1227,Surgery (If Needed),TREATMENT
+1228,Medications To Control Bleeding And Manage Symptoms,TREATMENT
+1229,Medications To Reduce Potassium Levels,TREATMENT
+1230,Antibiotic Or Antifungal Eye Drops,TREATMENT
+1231,Possible Corneal Transplant (In Severe Cases),TREATMENT
+1232,Drainage Or Surgical Removal Of The Abscess,TREATMENT
+1233,Management Of Underlying Lung Conditions,TREATMENT
+1234,Supportive Care (Hydration,TREATMENT
+1235,Rest),TREATMENT
+1236,Medical Attention For Severe Cases (Fluid Replacement,TREATMENT
+1237,Blood Transfusion,TREATMENT
+1238,Hospitalization),TREATMENT
+1239,Nasal Corticosteroids,TREATMENT
+1240,Antibiotics (In Bacterial Cases),TREATMENT
+1241,Decongestants,TREATMENT
+1242,Surgery (In Severe Or Chronic Cases),TREATMENT
+1243,Antibiotics (For Associated Infections),TREATMENT
+1244,Emergency Surgery To Untwist The Affected Organ And Restore Blood Flow,TREATMENT
+1245,Splinting,TREATMENT
+1246,Pain Medication,TREATMENT
+1247,Antidote (If Available),TREATMENT
+1248,Treatment For Complications,TREATMENT
+1249,Medications (Antiarrhythmics,TREATMENT
+1250,Electrical Cardioversion,TREATMENT
+1251,Catheter Ablation,TREATMENT
+1252,Anthelmintic Medication,TREATMENT
+1253,Hygiene Measures (Handwashing,TREATMENT
+1254,Trimming Nails,TREATMENT
+1255,Laundering Bedding),TREATMENT
+1256,Treatment For Household Members,TREATMENT
+1257,Surgical Intervention (Valve Ablation Or Resection),TREATMENT
+1258,Medications For Symptoms And Complications,TREATMENT
+1259,Pain-Relieving Medications,TREATMENT
+1260,Preventive Medications,TREATMENT
+1261,Medications (Anti-Inflammatory,TREATMENT
+1262,Hormonal Therapies,TREATMENT
+1263,Moisturizing Creams Or Lotions,TREATMENT
+1264,Avoiding Hot Showers Or Baths,TREATMENT
+1265,Using Mild Soaps,TREATMENT
+1266,Emollients (Moisturizers),TREATMENT
+1267,Topical Corticosteroids Or Immunomodulators,TREATMENT
+1268,Avoiding Triggers,TREATMENT
+1269,Topical Treatments (Corticosteroids,TREATMENT
+1270,Salicylic Acid),TREATMENT
+1271,Systemic Medications (Retinoids,TREATMENT
+1272,Prescription Medications (Topical Or Oral Scabicides),TREATMENT
+1273,Washing Clothes And Bedding In Hot Water,TREATMENT
+1274,Vacuuming And Cleaning Home,TREATMENT
+1275,Oral Antihistamines,TREATMENT
+1276,Avoiding The Trigger,TREATMENT
+1277,Corticosteroid Creams Or Ointments,TREATMENT
+1278,Cool Compresses,TREATMENT
+1279,Prescription Medications (Topical Or Oral Antiparasitic Agents),TREATMENT
+1280,Over-The-Counter Medications For Symptom Relief,TREATMENT
+1281,Antiviral Medications (In Some Cases),TREATMENT
+1282,Over-The-Counter Cough Suppressants,TREATMENT
+1283,Inhalers (If Prescribed),TREATMENT
+1284,Fluids (Electrolyte Solutions),TREATMENT
+1285,Bland Diet,TREATMENT
+1286,Avoiding Irritating Foods,TREATMENT
+1287,Medications To Help Pass The Stones,TREATMENT
+1288,Procedures Or Surgery,TREATMENT
+1289,Medications To Slow Bone Loss,TREATMENT
+1290,Insulin Therapy,TREATMENT
+1291,Healthy Eating,TREATMENT
+1292,Insulin Therapy (In Some Cases),TREATMENT

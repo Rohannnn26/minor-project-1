@@ -1,0 +1,401 @@
+id,name,type
+1,Panic Disorder,DISEASE
+2,Vocal Cord Polyp,DISEASE
+3,Turner Syndrome,DISEASE
+4,Cryptorchidism,DISEASE
+5,Ethylene Glycol Poisoning-1,DISEASE
+6,Ethylene Glycol Poisoning-2,DISEASE
+7,Ethylene Glycol Poisoning-3,DISEASE
+8,Atrophic Vaginitis,DISEASE
+9,Fracture,DISEASE
+10,Cellulitis,DISEASE
+11,Eye Alignment Disorder,DISEASE
+12,Headache After Lumbar Puncture,DISEASE
+13,Pyloric Stenosis,DISEASE
+14,Adenoid Cystic Carcinoma,DISEASE
+15,Pleomorphic Adenoma,DISEASE
+16,Warthin Tumor,DISEASE
+17,Mucoepidermoid Carcinoma,DISEASE
+18,Acinic Cell Carcinoma,DISEASE
+19,Mucocele,DISEASE
+20,Osteochondrosis,DISEASE
+21,Sialolithiasis,DISEASE
+22,Submandibular Stones,DISEASE
+23,Parotid Stones,DISEASE
+24,Recurrent Salivary Stones,DISEASE
+25,Wharton'S Duct Stones,DISEASE
+26,Mumps,DISEASE
+27,Ludwig'S Angina,DISEASE
+28,Mucocele,DISEASE
+29,Abscess,DISEASE
+30,Sjögren'S Syndrome,DISEASE
+31,Open-Angle Glaucoma,DISEASE
+32,Angle-Closure Glaucoma,DISEASE
+33,Normal-Tension Glaucoma,DISEASE
+34,Congenital Glaucoma,DISEASE
+35,Secondary Glaucoma,DISEASE
+36,Pigmentary Glaucoma,DISEASE
+37,Exfoliation Glaucoma,DISEASE
+38,Ocular Hypertension,DISEASE
+39,Low-Tension Glaucoma,DISEASE
+40,Anorexia Nervosa,DISEASE
+41,Bulimia Nervosa,DISEASE
+42,Binge Eating Disorder,DISEASE
+43,Avoidant/Restrictive Food Intake Disorder (Arfid),DISEASE
+44,Other Specified Feeding Or Eating Disorder (Osfed),DISEASE
+45,Orthorexia Nervosa,DISEASE
+46,Pica,DISEASE
+47,Rumination Disorder,DISEASE
+48,Transient Ischemic Attack,DISEASE
+49,Pyelonephritis,DISEASE
+50,Rotator Cuff Injury,DISEASE
+51,Fibromyalgia,DISEASE
+52,Chronic Fatigue Syndrome,DISEASE
+53,Complex Regional Pain Syndrome (Crps),DISEASE
+54,Myofascial Pain Syndrome,DISEASE
+55,Chronic Migraine,DISEASE
+56,Neuropathic Pain,DISEASE
+57,Gestational Diabetes,DISEASE
+58,Pregnancy-Induced Hypertension,DISEASE
+59,Gestational Hypertension,DISEASE
+60,Preeclampsia,DISEASE
+61,Hyperemesis Gravidarum,DISEASE
+62,Urinary Tract Infection (Uti),DISEASE
+63,Anemia,DISEASE
+64,Pregnancy-Related Back Pain,DISEASE
+65,Round Ligament Pain,DISEASE
+66,Placenta Previa,DISEASE
+67,Carpal Tunnel Syndrome,DISEASE
+68,Sciatica,DISEASE
+69,Varicose Veins,DISEASE
+70,Hemorrhoids,DISEASE
+71,Gestational Cholestasis,DISEASE
+72,Liver Cancer,DISEASE
+73,Atelectasis,DISEASE
+74,Ectopic Pregnancy,DISEASE
+75,Choledocholithiasis,DISEASE
+76,Cirrhosis,DISEASE
+77,Thoracic Aortic Aneurysm,DISEASE
+78,Subdural Hemorrhage,DISEASE
+79,Congenital Rubella,DISEASE
+80,Diabetic Retinopathy,DISEASE
+81,Fibromyalgia,DISEASE
+82,Ischemia Of The Bowel,DISEASE
+83,Fetal Alcohol Syndrome,DISEASE
+84,Peritonitis,DISEASE
+85,Abdominal Injury,DISEASE
+86,Acute Pancreatitis,DISEASE
+87,Thrombophlebitis,DISEASE
+88,Asthma,DISEASE
+89,Restless Leg Syndrome,DISEASE
+90,Emphysema,DISEASE
+91,Induced Abortion,DISEASE
+92,Acute Sinusitis,DISEASE
+93,Von Hippel-Lindau Disease,DISEASE
+94,Alcohol Use Disorder,DISEASE
+95,Opioid Use Disorder,DISEASE
+96,Stimulant Use Disorder,DISEASE
+97,Cannabis Use Disorder,DISEASE
+98,Benzodiazepine Use Disorder,DISEASE
+99,Hallucinogen Use Disorder,DISEASE
+100,"Sedative, Hypnotic, Or Anxiolytic Use Disorder",DISEASE
+101,Postpartum Depression,DISEASE
+102,Coronary Atherosclerosis,DISEASE
+103,Spondylitis,DISEASE
+104,Pituitary Adenoma,DISEASE
+105,Uterine Fibroids,DISEASE
+106,Idiopathic Nonmenstrual Bleeding,DISEASE
+107,Chalazion,DISEASE
+108,Ovarian Torsion,DISEASE
+109,Vaginal Yeast Infection,DISEASE
+110,Mastoiditis,DISEASE
+111,Lung Contusion,DISEASE
+112,Hypertrophic Obstructive Cardiomyopathy (Hocm),DISEASE
+113,Pulmonary Eosinophilia,DISEASE
+114,Corneal Disorder,DISEASE
+115,Foreign Body In The Gastrointestinal Tract,DISEASE
+116,Endophthalmitis,DISEASE
+117,Achalasia,DISEASE
+118,Conductive Hearing Loss,DISEASE
+119,Abdominal Hernia,DISEASE
+120,Marijuana Abuse,DISEASE
+121,Cryptococcosis,DISEASE
+122,Obesity,DISEASE
+123,Indigestion,DISEASE
+124,Bursitis,DISEASE
+125,Esophageal Cancer,DISEASE
+126,Pulmonary Congestion,DISEASE
+127,Juvenile Rheumatoid Arthritis,DISEASE
+128,Actinic Keratosis,DISEASE
+129,Acute Otitis Media,DISEASE
+130,Astigmatism,DISEASE
+131,Tuberous Sclerosis,DISEASE
+132,Empyema,DISEASE
+133,Presbycusis,DISEASE
+134,Neonatal Jaundice,DISEASE
+135,Dislocation Of The Elbow,DISEASE
+136,Spondylosis,DISEASE
+137,Herpangina,DISEASE
+138,Poisoning Due To Antidepressants,DISEASE
+139,Infection Of Open Wound,DISEASE
+140,Protein Deficiency,DISEASE
+141,Myoclonus,DISEASE
+142,Bone Spur Of The Calcaneus,DISEASE
+143,Von Willebrand Disease,DISEASE
+144,Heart Block,DISEASE
+145,Colonic Polyp,DISEASE
+146,Hypospadias,DISEASE
+147,Magnesium Deficiency,DISEASE
+148,Female Infertility Of Unknown Cause,DISEASE
+149,Pericarditis,DISEASE
+150,Attention Deficit Hyperactivity Disorder (Adhd),DISEASE
+151,Neuromyelitis Optica,DISEASE
+152,Pulmonic Valve Disease,DISEASE
+153,Tietze Syndrome,DISEASE
+154,Cranial Nerve Palsy,DISEASE
+155,Conversion Disorder,DISEASE
+156,Complex Regional Pain Syndrome,DISEASE
+157,Otosclerosis,DISEASE
+158,Hypothyroidism,DISEASE
+159,Primary Insomnia,DISEASE
+160,Lice,DISEASE
+161,Vitamin B12 Deficiency,DISEASE
+162,Vulvodynia,DISEASE
+163,Endometriosis,DISEASE
+164,Vasculitis,DISEASE
+165,Concussion,DISEASE
+166,Oral Leukoplakia,DISEASE
+167,Chronic Kidney Disease,DISEASE
+168,Bladder Disorder,DISEASE
+169,Chorioretinitis,DISEASE
+170,Priapism,DISEASE
+171,Myositis,DISEASE
+172,Mononucleosis,DISEASE
+173,Neuralgia,DISEASE
+174,Polycystic Kidney Disease,DISEASE
+175,Bipolar Disorder,DISEASE
+176,Amyloidosis,DISEASE
+177,Chronic Inflammatory Demyelinating Polyneuropathy (Cidp),DISEASE
+178,Gastroesophageal Reflux Disease (Gerd),DISEASE
+179,Vitreous Hemorrhage,DISEASE
+180,Antimicrobial Drugs Poisoning,DISEASE
+181,Scleroderma,DISEASE
+182,Myasthenia Gravis,DISEASE
+183,Hypoglycemia,DISEASE
+184,Idiopathic Absence Of Menstruation,DISEASE
+185,Dislocation Of The Ankle,DISEASE
+186,Carbon Monoxide Poisoning,DISEASE
+187,Panic Attack,DISEASE
+188,Plantar Fasciitis,DISEASE
+189,Hyperopia,DISEASE
+190,Sedatives Poisoning,DISEASE
+191,Pemphigus,DISEASE
+192,Peyronie Disease,DISEASE
+193,Hiatal Hernia,DISEASE
+194,Extrapyramidal Effect Of Drugs,DISEASE
+195,Meniere Disease,DISEASE
+196,Anal Fissure,DISEASE
+197,Chronic Otitis Media,DISEASE
+198,Hirschsprung Disease,DISEASE
+199,Polymyalgia Rheumatica,DISEASE
+200,Lymphedema,DISEASE
+201,Bladder Cancer,DISEASE
+202,Acute Bronchospasm,DISEASE
+203,Acute Glaucoma,DISEASE
+204,Dislocation Of The Patella,DISEASE
+205,Sciatica,DISEASE
+206,Hypercalcemia,DISEASE
+207,Stress Incontinence,DISEASE
+208,Benign Kidney Cyst,DISEASE
+209,Hydrocele Of The Testicle,DISEASE
+210,Hirsutism,DISEASE
+211,Hydronephrosis,DISEASE
+212,Diverticulosis,DISEASE
+213,Pain After An Operation,DISEASE
+214,Huntington Disease,DISEASE
+215,West Nile Virus,DISEASE
+216,Lymphoma,DISEASE
+217,Dermatitis Due To Sun Exposure,DISEASE
+218,Anemia Due To Chronic Kidney Disease,DISEASE
+219,Injury To Internal Organ,DISEASE
+220,Scleritis,DISEASE
+221,Pterygium,DISEASE
+222,Fungal Infection Of The Skin,DISEASE
+223,Insulin Overdose,DISEASE
+224,Syndrome Of Inappropriate Secretion Of Adh (Siadh),DISEASE
+225,Premenstrual Tension Syndrome,DISEASE
+226,Orbital Cellulitis,DISEASE
+227,Injury To The Leg,DISEASE
+228,Hepatic Encephalopathy,DISEASE
+229,Bone Cancer,DISEASE
+230,Leishmaniasis,DISEASE
+231,Chagas Disease,DISEASE
+232,Syringomyelia,DISEASE
+233,Pulmonary Fibrosis,DISEASE
+234,Mitral Valve Disease,DISEASE
+235,Parkinson Disease,DISEASE
+236,Gout,DISEASE
+237,Otitis Media,DISEASE
+238,Myelodysplastic Syndrome,DISEASE
+239,Fracture Of The Shoulder,DISEASE
+240,Acute Kidney Injury,DISEASE
+241,Threatened Pregnancy,DISEASE
+242,Intracranial Abscess,DISEASE
+243,Gum Disease,DISEASE
+244,Open Wound From Surgical Incision,DISEASE
+245,Gastrointestinal Hemorrhage,DISEASE
+246,Seborrheic Dermatitis,DISEASE
+247,Drug Abuse (Methamphetamine),DISEASE
+248,Torticollis,DISEASE
+249,Antihypertensives Poisoning,DISEASE
+250,Tension Headache,DISEASE
+251,Alcohol Intoxication,DISEASE
+252,Scurvy,DISEASE
+253,Narcolepsy,DISEASE
+254,Food Allergy,DISEASE
+255,Labyrinthitis,DISEASE
+256,Anxiety,DISEASE
+257,Impulse Control Disorder,DISEASE
+258,Stenosis Of The Tear Duct,DISEASE
+259,Abscess Of Nose,DISEASE
+260,Omphalitis,DISEASE
+261,Leukemia,DISEASE
+262,Bell Palsy,DISEASE
+263,Conjunctivitis Due To Allergy,DISEASE
+264,Drug Reaction,DISEASE
+265,Adrenal Cancer,DISEASE
+266,Myopia,DISEASE
+267,Osteoarthritis,DISEASE
+268,Thyroid Disease,DISEASE
+269,Pharyngitis,DISEASE
+270,Chronic Rheumatic Fever,DISEASE
+271,Hypocalcemia,DISEASE
+272,Macular Degeneration,DISEASE
+273,Pneumonia,DISEASE
+274,Cold Sore,DISEASE
+275,Premature Ventricular Contractions (Pvcs),DISEASE
+276,Chancroid,DISEASE
+277,Testicular Cancer,DISEASE
+278,Hydrocephalus,DISEASE
+279,Breast Cancer,DISEASE
+280,Anemia Due To Malignancy,DISEASE
+281,Esophageal Varices,DISEASE
+282,Endometrial Cancer,DISEASE
+283,Cystic Fibrosis,DISEASE
+284,Intertrigo,DISEASE
+285,Parathyroid Adenoma,DISEASE
+286,Glucocorticoid Deficiency,DISEASE
+287,Temporomandibular Joint Disorder,DISEASE
+288,Wilson Disease,DISEASE
+289,Vesicoureteral Reflux,DISEASE
+290,Vitamin A Deficiency,DISEASE
+291,Gonorrhea,DISEASE
+292,Fracture Of The Rib,DISEASE
+293,Ependymoma,DISEASE
+294,Hepatitis Due To A Toxin,DISEASE
+295,Vaginal Cyst,DISEASE
+296,Chronic Knee Pain,DISEASE
+297,Pinguecula,DISEASE
+298,Hypergammaglobulinemia,DISEASE
+299,Pituitary Disorder,DISEASE
+300,Kidney Stone,DISEASE
+301,Autism,DISEASE
+302,Cat Scratch Disease,DISEASE
+303,Chronic Glaucoma,DISEASE
+304,Retinal Detachment,DISEASE
+305,Aplastic Anemia,DISEASE
+306,Overflow Incontinence,DISEASE
+307,Rabies,DISEASE
+308,Hemolytic Anemia,DISEASE
+309,Lateral Epicondylitis (Tennis Elbow),DISEASE
+310,Syphilis,DISEASE
+311,Diabetic Kidney Disease,DISEASE
+312,Nose Disorder,DISEASE
+313,Drug Withdrawal,DISEASE
+314,Dental Caries,DISEASE
+315,Hypercholesterolemia,DISEASE
+316,Fracture Of The Patella,DISEASE
+317,Kidney Failure,DISEASE
+318,Fracture Of The Neck,DISEASE
+319,Muscle Spasm,DISEASE
+320,Hemophilia,DISEASE
+321,Hyperosmotic Hyperketotic State,DISEASE
+322,Peritonsillar Abscess,DISEASE
+323,Gastroparesis,DISEASE
+324,Fat Embolism,DISEASE
+325,Polycythemia Vera,DISEASE
+326,Thrombocytopenia,DISEASE
+327,Head And Neck Cancer,DISEASE
+328,Pseudohypoparathyroidism,DISEASE
+329,Goiter,DISEASE
+330,Urge Incontinence,DISEASE
+331,Edward Syndrome,DISEASE
+332,Muscular Dystrophy,DISEASE
+333,Mittelschmerz,DISEASE
+334,Corneal Abrasion,DISEASE
+335,Anemia Of Chronic Disease,DISEASE
+336,Dysthymic Disorder,DISEASE
+337,Scarlet Fever,DISEASE
+338,Hypertensive Heart Disease,DISEASE
+339,Drug Abuse (Barbiturates),DISEASE
+340,Polycystic Ovarian Syndrome,DISEASE
+341,Encephalitis,DISEASE
+342,Cyst Of The Eyelid,DISEASE
+343,Balanitis,DISEASE
+344,Foreign Body In The Throat,DISEASE
+345,Drug Abuse (Cocaine),DISEASE
+346,Optic Neuritis,DISEASE
+347,Intestinal Malabsorption,DISEASE
+348,Lead Poisoning,DISEASE
+349,Viral Warts,DISEASE
+350,Hyperhidrosis,DISEASE
+351,Stroke,DISEASE
+352,Pilonidal Cyst,DISEASE
+353,Crushing Injury,DISEASE
+354,Normal Pressure Hydrocephalus,DISEASE
+355,Alopecia,DISEASE
+356,Hashimoto Thyroiditis,DISEASE
+357,Flat Feet,DISEASE
+358,Nonalcoholic Liver Disease (Nash),DISEASE
+359,Hemarthrosis,DISEASE
+360,Pelvic Organ Prolapse,DISEASE
+361,Fracture Of The Arm,DISEASE
+362,Coagulation (Bleeding) Disorder,DISEASE
+363,Intracranial Hemorrhage,DISEASE
+364,Hyperkalemia,DISEASE
+365,Cornea Infection,DISEASE
+366,Abscess Of The Lung,DISEASE
+367,Dengue Fever,DISEASE
+368,Chronic Sinusitis,DISEASE
+369,Cholesteatoma,DISEASE
+370,Volvulus,DISEASE
+371,Injury To The Finger,DISEASE
+372,Poisoning Due To Analgesics,DISEASE
+373,Atrial Fibrillation,DISEASE
+374,Pinworm Infection,DISEASE
+375,Urethral Valves,DISEASE
+376,Migraine,DISEASE
+377,Arthritis,DISEASE
+378,Sciatica,DISEASE
+379,Complex Regional Pain Syndrome (Crps),DISEASE
+380,Lupus,DISEASE
+381,Endometriosis,DISEASE
+382,Chronic Headache,DISEASE
+383,Dry Skin,DISEASE
+384,Eczema,DISEASE
+385,Psoriasis,DISEASE
+386,Scabies,DISEASE
+387,Urticaria (Hives),DISEASE
+388,Insect Bites,DISEASE
+389,Contact Dermatitis,DISEASE
+390,Dermatitis Due To Sun Exposure,DISEASE
+391,Parasitic Infections,DISEASE
+392,Influenza (Flu),DISEASE
+393,Urinary Tract Infection (Uti),DISEASE
+394,Bronchitis,DISEASE
+395,Gastroenteritis (Stomach Flu),DISEASE
+396,Urinary Stones (Kidney Stones),DISEASE
+397,Osteoporosis,DISEASE
+398,Rheumatoid Arthritis,DISEASE
+399,Type 1 Diabetes,DISEASE
+400,Type 2 Diabetes,DISEASE
